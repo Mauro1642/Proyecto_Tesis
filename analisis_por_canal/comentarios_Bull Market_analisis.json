@@ -1,0 +1,5691 @@
+{
+  "Ra_6RZm43VM": {
+    "error_1757717965.234542": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3809588551521301,
+        "NEU": 0.540921688079834,
+        "POS": 0.07811947166919708
+      }
+    },
+    "error_1757721914.684974": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3809588551521301,
+        "NEU": 0.540921688079834,
+        "POS": 0.07811947166919708
+      }
+    },
+    "error_1757771249.854384": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3809588551521301,
+        "NEU": 0.540921688079834,
+        "POS": 0.07811947166919708
+      }
+    },
+    "error_1757780165.728138": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3809588551521301,
+        "NEU": 0.540921688079834,
+        "POS": 0.07811947166919708
+      }
+    },
+    "error_1757800207.094462": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3809588551521301,
+        "NEU": 0.540921688079834,
+        "POS": 0.07811947166919708
+      }
+    },
+    "error_1757842935.020294": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3809588551521301,
+        "NEU": 0.540921688079834,
+        "POS": 0.07811947166919708
+      }
+    },
+    "error_1757845823.43885": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3809588551521301,
+        "NEU": 0.540921688079834,
+        "POS": 0.07811947166919708
+      }
+    },
+    "error_1757932713.483091": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3809588551521301,
+        "NEU": 0.540921688079834,
+        "POS": 0.07811947166919708
+      }
+    },
+    "error_1757980838.287276": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1757982147.281271": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758020243.67642": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758025120.076731": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758026316.445153": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758027681.539438": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758028271.324327": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758028377.167303": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758029003.058996": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758029456.092193": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758029750.987532": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758032829.796881": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758038613.79703": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758041192.646476": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758052826.472404": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758068248.653922": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758104793.148482": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758143626.771772": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758190928.755948": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758199969.160816": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758201123.771022": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758220771.017588": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758221258.090481": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    },
+    "error_1758235826.653989": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37709563970565796,
+        "NEU": 0.5433547496795654,
+        "POS": 0.07954967021942139
+      }
+    }
+  },
+  "EweveQNucKQ": {
+    "UgxfCTrQakaDtgUtbuN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.24009260535240173,
+        "NEU": 0.5949251651763916,
+        "POS": 0.1649821698665619
+      }
+    },
+    "UgyHOGgx9-i_Ys6egMl4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.20999230444431305,
+        "NEU": 0.7263196706771851,
+        "POS": 0.0636880174279213
+      }
+    }
+  },
+  "qf8ly7v7mII": {
+    "UgyHL4aVhoFNAcD7Cdx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7910173535346985,
+        "NEU": 0.19297194480895996,
+        "POS": 0.016010601073503494
+      }
+    },
+    "UgxGNaoOhAnDvqW5MfB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08632958680391312,
+        "NEU": 0.7082058787345886,
+        "POS": 0.20546452701091766
+      }
+    },
+    "Ugzfevb9ngy5mRSMZDt4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005092886742204428,
+        "NEU": 0.035393908619880676,
+        "POS": 0.9595131278038025
+      }
+    },
+    "UgwYTeqr7Zu0jo1Zb2V4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9583301544189453,
+        "NEU": 0.035341862589120865,
+        "POS": 0.006328010465949774
+      }
+    },
+    "Ugw4XMAGJ-mL4SSaXFJ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04176155477762222,
+        "NEU": 0.9045735597610474,
+        "POS": 0.05366486683487892
+      }
+    },
+    "UgzKVkcpVZbNlXYA2ZR4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8730593919754028,
+        "NEU": 0.11449600756168365,
+        "POS": 0.012444553896784782
+      }
+    },
+    "UgyhQEhlawD9Rxq3Zut4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5006803274154663,
+        "NEU": 0.4593055844306946,
+        "POS": 0.040014151483774185
+      }
+    },
+    "UgwKs-3RWB1iOQaqDoh4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9000309705734253,
+        "NEU": 0.09483068436384201,
+        "POS": 0.005138350650668144
+      }
+    },
+    "UgxiYqIiuJ2UzN-2S654AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8576878905296326,
+        "NEU": 0.1373508870601654,
+        "POS": 0.004961176309734583
+      }
+    },
+    "UgxO4OiVRjK-U-WvEEx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8049149513244629,
+        "NEU": 0.18190573155879974,
+        "POS": 0.013179300352931023
+      }
+    }
+  },
+  "yR0E4uvgDlM": {
+    "UgxUnpTFWkp75Lv6qbp4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.4954249858856201,
+        "NEU": 0.4893830418586731,
+        "POS": 0.015191936865448952
+      }
+    },
+    "UgwTzeTF_8rHERZ2oZ54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.43024373054504395,
+        "NEU": 0.48155128955841064,
+        "POS": 0.0882050022482872
+      }
+    },
+    "UgwPUv2Sa6j2I_ILo494AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.4858289957046509,
+        "NEU": 0.3939211070537567,
+        "POS": 0.12024998664855957
+      }
+    },
+    "UgwuTaDtEpqb8RUjN414AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.17377394437789917,
+        "NEU": 0.6930914521217346,
+        "POS": 0.13313451409339905
+      }
+    },
+    "UgxMGVpkxm1WqMRKqR94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7268761396408081,
+        "NEU": 0.2575347423553467,
+        "POS": 0.015589100308716297
+      }
+    },
+    "Ugx-kwx4ZB2DBFFRLl94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.21868231892585754,
+        "NEU": 0.6916284561157227,
+        "POS": 0.0896892100572586
+      }
+    },
+    "UgzP1Uuf3-gp1BO0thh4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.763015627861023,
+        "NEU": 0.22493265569210052,
+        "POS": 0.01205172948539257
+      }
+    }
+  },
+  "TwRYIntYJVk": {
+    "Ugz6nufx0KdgD77YJ4N4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.947288990020752,
+        "NEU": 0.049409303814172745,
+        "POS": 0.0033017012756317854
+      }
+    },
+    "Ugy-guKgIDSNRL64FJd4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.016575433313846588,
+        "NEU": 0.12498412281274796,
+        "POS": 0.8584404587745667
+      }
+    },
+    "UgwvceDuv6ptRRrKhNV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.10107425600290298,
+        "NEU": 0.8618439435958862,
+        "POS": 0.037081748247146606
+      }
+    }
+  },
+  "E43HiHL28b0": {
+    "UgwJsOS5pHQajBCVRTN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.923339307308197,
+        "NEU": 0.07254564762115479,
+        "POS": 0.004115020390599966
+      }
+    },
+    "Ugx7b3CPPeuZ3hp6dFR4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8786032795906067,
+        "NEU": 0.10937882959842682,
+        "POS": 0.012017898261547089
+      }
+    },
+    "Ugxxp_75iFtgvoh_B2R4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.17206530272960663,
+        "NEU": 0.4553803503513336,
+        "POS": 0.37255433201789856
+      }
+    },
+    "Ugw7sruQE2w50pwxZuN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.39774537086486816,
+        "NEU": 0.541038990020752,
+        "POS": 0.0612155981361866
+      }
+    },
+    "Ugx5Z4TyJo5aDnaN-qt4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.01930881105363369,
+        "NEU": 0.12813737988471985,
+        "POS": 0.8525538444519043
+      }
+    },
+    "UgxUls--lEUOxUSHHX54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0033206313382834196,
+        "NEU": 0.026484090834856033,
+        "POS": 0.9701952338218689
+      }
+    },
+    "UgzJUc5sKoYnkgWrCcx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3215145170688629,
+        "NEU": 0.6446740627288818,
+        "POS": 0.033811457455158234
+      }
+    },
+    "UgwrftouS1WeHGWDtjB4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9720665812492371,
+        "NEU": 0.02227121591567993,
+        "POS": 0.005662189330905676
+      }
+    },
+    "UgyoyNKMyBhDbeAL4cR4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.016328591853380203,
+        "NEU": 0.09963377565145493,
+        "POS": 0.8840376138687134
+      }
+    },
+    "UgyoyNKMyBhDbeAL4cR4AaABAg.AN5iT7Wh4pmAN69X-zbQEu": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005201229825615883,
+        "NEU": 0.0426165908575058,
+        "POS": 0.9521821737289429
+      }
+    },
+    "UgwJsOS5pHQajBCVRTN4AaABAg.AMvvkul79nvAMwQrjrhx4c": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7391462922096252,
+        "NEU": 0.25270354747772217,
+        "POS": 0.00815020315349102
+      }
+    },
+    "UgwJsOS5pHQajBCVRTN4AaABAg.AMvvkul79nvAMwRYAvAvfu": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.09760653227567673,
+        "NEU": 0.8413878083229065,
+        "POS": 0.06100557744503021
+      }
+    },
+    "Ugx7b3CPPeuZ3hp6dFR4AaABAg.AMtC5KM_b2wAMx7M1D93uh": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7923581004142761,
+        "NEU": 0.1984383463859558,
+        "POS": 0.009203583933413029
+      }
+    },
+    "Ugw7sruQE2w50pwxZuN4AaABAg.AMsNhOGghunAMz1e6eIbKQ": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.018795162439346313,
+        "NEU": 0.7160776853561401,
+        "POS": 0.26512718200683594
+      }
+    },
+    "UgxUls--lEUOxUSHHX54AaABAg.AMrr98F5YByAMu-qT0idLB": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0044745090417563915,
+        "NEU": 0.047923993319272995,
+        "POS": 0.9476014971733093
+      }
+    },
+    "UgzJUc5sKoYnkgWrCcx4AaABAg.AMrpnvSq85mAMu05CfildA": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.02336331643164158,
+        "NEU": 0.3289509117603302,
+        "POS": 0.647685706615448
+      }
+    }
+  },
+  "LCWOGrZpsyE": {},
+  "88e2uprApKQ": {
+    "UgzhAZ8Nwf4klAaLLBB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.054053355008363724,
+        "NEU": 0.7874146699905396,
+        "POS": 0.15853193402290344
+      }
+    },
+    "UgwiW6XIDKBPgn1M6Ft4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.052551887929439545,
+        "NEU": 0.7447549104690552,
+        "POS": 0.20269320905208588
+      }
+    },
+    "UgyG3JTy7lxa7cHqLEx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.014596663415431976,
+        "NEU": 0.7572989463806152,
+        "POS": 0.22810447216033936
+      }
+    },
+    "UgzhAZ8Nwf4klAaLLBB4AaABAg.AMyscAe4MaCAMz19_O1uRL": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04834512621164322,
+        "NEU": 0.48144271969795227,
+        "POS": 0.4702122211456299
+      }
+    },
+    "UgyG3JTy7lxa7cHqLEx4AaABAg.AMpNUqNbAunAMytFnsKhDJ": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.02754688635468483,
+        "NEU": 0.8348103165626526,
+        "POS": 0.13764281570911407
+      }
+    },
+    "UgyG3JTy7lxa7cHqLEx4AaABAg.AMpNUqNbAunAMz1sxwH_ZS": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.32841792702674866,
+        "NEU": 0.23989267647266388,
+        "POS": 0.43168938159942627
+      }
+    },
+    "UgyG3JTy7lxa7cHqLEx4AaABAg.AMpNUqNbAunAMzegSmESIQ": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.024063657969236374,
+        "NEU": 0.1116483062505722,
+        "POS": 0.8642879724502563
+      }
+    }
+  },
+  "YueFAk6drBs": {
+    "error_1757717966.408329": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28398245573043823,
+        "NEU": 0.6649345755577087,
+        "POS": 0.05108300969004631
+      }
+    },
+    "error_1757721915.682653": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28398245573043823,
+        "NEU": 0.6649345755577087,
+        "POS": 0.05108300969004631
+      }
+    },
+    "error_1757771253.353743": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28398245573043823,
+        "NEU": 0.6649345755577087,
+        "POS": 0.05108300969004631
+      }
+    },
+    "error_1757780168.19182": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28398245573043823,
+        "NEU": 0.6649345755577087,
+        "POS": 0.05108300969004631
+      }
+    },
+    "error_1757800208.030573": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28398245573043823,
+        "NEU": 0.6649345755577087,
+        "POS": 0.05108300969004631
+      }
+    },
+    "error_1757842936.765138": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28398245573043823,
+        "NEU": 0.6649345755577087,
+        "POS": 0.05108300969004631
+      }
+    },
+    "error_1757845825.191969": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28398245573043823,
+        "NEU": 0.6649345755577087,
+        "POS": 0.05108300969004631
+      }
+    },
+    "error_1757932715.63753": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28398245573043823,
+        "NEU": 0.6649345755577087,
+        "POS": 0.05108300969004631
+      }
+    },
+    "error_1758029003.990497": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758029456.848175": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758029751.852072": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758032830.662563": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758038615.906597": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758041194.283789": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758052828.725551": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758068251.006876": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758104794.141209": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758143627.838993": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758190930.80142": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758199970.159904": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758201124.589419": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758220773.279862": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "error_1758221259.590764": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2810458540916443,
+        "NEU": 0.6666789650917053,
+        "POS": 0.0522751584649086
+      }
+    },
+    "UgyWcAnHTVGWckLL9Yh4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.18344305455684662,
+        "NEU": 0.6387869715690613,
+        "POS": 0.1777699738740921
+      }
+    }
+  },
+  "t7JMu0TvW6w": {
+    "UgyAmKBp95S4_KGCbEN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8958193063735962,
+        "NEU": 0.0927371010184288,
+        "POS": 0.011443572118878365
+      }
+    },
+    "UgzWH74QOl8yLp5ju-F4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9584381580352783,
+        "NEU": 0.03632214292883873,
+        "POS": 0.005239708349108696
+      }
+    },
+    "UgyFAi-_l7uHbzBapD14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1094437688589096,
+        "NEU": 0.7400036454200745,
+        "POS": 0.15055255591869354
+      }
+    },
+    "UgxyCE_45AL2mtjAYK94AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008775945752859116,
+        "NEU": 0.05239499360322952,
+        "POS": 0.9388290047645569
+      }
+    },
+    "UgyEJiWMGlaYTscJYFR4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.007051767781376839,
+        "NEU": 0.1123640239238739,
+        "POS": 0.880584180355072
+      }
+    },
+    "UgwuE-bED7TJYkAfFCl4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.003070525825023651,
+        "NEU": 0.021573178470134735,
+        "POS": 0.9753562211990356
+      }
+    },
+    "UgyB8xRUWcKoCJMtatV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.4548474848270416,
+        "NEU": 0.5327365398406982,
+        "POS": 0.012415973469614983
+      }
+    },
+    "UgzbKTJri95Funr4iyl4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07440631836652756,
+        "NEU": 0.7407910227775574,
+        "POS": 0.18480268120765686
+      }
+    },
+    "UgwomA5oC9iM81-4LZt4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9556251764297485,
+        "NEU": 0.03545956313610077,
+        "POS": 0.008915198966860771
+      }
+    },
+    "UgzxW58m3-Cp5sce3gp4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.00316024711355567,
+        "NEU": 0.02017911523580551,
+        "POS": 0.9766606688499451
+      }
+    },
+    "UgzXTZD3yx0ivaV_lzF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.16630110144615173,
+        "NEU": 0.6721193194389343,
+        "POS": 0.16157960891723633
+      }
+    },
+    "Ugw8nUi5GNaukzHfp_x4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008217654190957546,
+        "NEU": 0.16734294593334198,
+        "POS": 0.8244394063949585
+      }
+    },
+    "UgwkKAQic_ARCNQXiEB4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.009103713557124138,
+        "NEU": 0.05833858251571655,
+        "POS": 0.9325576424598694
+      }
+    },
+    "UgyW3up4iDq7cs6v-sJ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9732149839401245,
+        "NEU": 0.0247809961438179,
+        "POS": 0.002004072070121765
+      }
+    },
+    "UgyeRSdBZJZzV-gUqKx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.37029576301574707,
+        "NEU": 0.5593051910400391,
+        "POS": 0.07039906829595566
+      }
+    }
+  },
+  "7Ys_IMs3t58": {
+    "UgzLYnbqGNZzWKYIyBx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.41648030281066895,
+        "NEU": 0.5439845323562622,
+        "POS": 0.03953515365719795
+      }
+    },
+    "UgwNr_IwAgo4t06yMMV4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9548032283782959,
+        "NEU": 0.039058901369571686,
+        "POS": 0.00613776408135891
+      }
+    }
+  },
+  "8dtzapFJp_E": {
+    "UgwShEhBpBBiEMkmbNd4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0602431520819664,
+        "NEU": 0.45214155316352844,
+        "POS": 0.48761531710624695
+      }
+    }
+  },
+  "6QxWc_lan9k": {
+    "UgxsRIgDCFjV5ytOb5d4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0027422846760600805,
+        "NEU": 0.018874533474445343,
+        "POS": 0.9783831238746643
+      }
+    },
+    "UgzU-KmzghFw67EcWZF4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9316365122795105,
+        "NEU": 0.06168637052178383,
+        "POS": 0.006677168887108564
+      }
+    },
+    "UgxsRIgDCFjV5ytOb5d4AaABAg.AMozTbLNxj0AMz1yKc0JOA": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004091904032975435,
+        "NEU": 0.06124639883637428,
+        "POS": 0.9346616864204407
+      }
+    }
+  },
+  "IV-fHcixEZ4": {
+    "Ugxe4ghMZOK0z53MEAZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7403706908226013,
+        "NEU": 0.24760329723358154,
+        "POS": 0.012025977484881878
+      }
+    }
+  },
+  "3HMQWbeE7Ok": {
+    "UgzaFVaLxAFCUSV72DR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.24157504737377167,
+        "NEU": 0.72099369764328,
+        "POS": 0.03743130713701248
+      }
+    },
+    "UgxM0nlEKB_KK29NeoB4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.009677784517407417,
+        "NEU": 0.04247244819998741,
+        "POS": 0.9478498101234436
+      }
+    },
+    "Ugzj5JWuW_W6mMgx96h4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.06540678441524506,
+        "NEU": 0.30761054158210754,
+        "POS": 0.6269826889038086
+      }
+    },
+    "UgwM3l1EBwE-JXfyGjx4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.00898721069097519,
+        "NEU": 0.22910292446613312,
+        "POS": 0.7619099020957947
+      }
+    },
+    "UgzaFVaLxAFCUSV72DR4AaABAg.AMh5_KZHzk_AMh70eJTgUH": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04107502102851868,
+        "NEU": 0.7226887941360474,
+        "POS": 0.23623619973659515
+      }
+    },
+    "UgxM0nlEKB_KK29NeoB4AaABAg.AMgbj-IKMHYAMz21xoxvHb": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.1256013661623001,
+        "NEU": 0.39579877257347107,
+        "POS": 0.47859978675842285
+      }
+    },
+    "Ugzj5JWuW_W6mMgx96h4AaABAg.AMaBRlIv4JPAMz2A3W2lI5": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.22425678372383118,
+        "NEU": 0.5821700096130371,
+        "POS": 0.1935732215642929
+      }
+    },
+    "UgwM3l1EBwE-JXfyGjx4AaABAg.AM_ptmoo22wAMeoeUPw9ZE": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.007504007779061794,
+        "NEU": 0.15043267607688904,
+        "POS": 0.842063307762146
+      }
+    },
+    "UgwM3l1EBwE-JXfyGjx4AaABAg.AM_ptmoo22wAMz28rIYXnq": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.19430233538150787,
+        "NEU": 0.5262225270271301,
+        "POS": 0.27947521209716797
+      }
+    }
+  },
+  "MdjKGUvnwnU": {
+    "Ugy6TbT4aqKS7p9802F4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.00682798819616437,
+        "NEU": 0.04067127779126167,
+        "POS": 0.9525007009506226
+      }
+    },
+    "Ugy6TbT4aqKS7p9802F4AaABAg.AMhRzEwjzjIAMoi7eqrjZI": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005906984675675631,
+        "NEU": 0.02165483869612217,
+        "POS": 0.9724382162094116
+      }
+    }
+  },
+  "o3L_Ig6LxQQ": {
+    "UgzD5XwyC4bjtwdJBCN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3692348897457123,
+        "NEU": 0.5542843341827393,
+        "POS": 0.07648080587387085
+      }
+    },
+    "Ugztw4EwO-WqbaX_q8l4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1999959647655487,
+        "NEU": 0.5317627191543579,
+        "POS": 0.2682413160800934
+      }
+    },
+    "Ugxc7bRUbdSaTQYBkXV4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.00907369889318943,
+        "NEU": 0.027530089020729065,
+        "POS": 0.9633962512016296
+      }
+    },
+    "UgwpSDTPqcTHpTPQNCd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.545722246170044,
+        "NEU": 0.42377784848213196,
+        "POS": 0.03049987554550171
+      }
+    },
+    "Ugx2Ue7n5iYc5Mnpu3R4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.012346518225967884,
+        "NEU": 0.14830760657787323,
+        "POS": 0.8393458724021912
+      }
+    },
+    "Ugy8OJwij2gx5EgEeUh4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.09011846035718918,
+        "NEU": 0.3287792205810547,
+        "POS": 0.5811023116111755
+      }
+    },
+    "UgztSaj5hLZmWT4oxOp4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7416802048683167,
+        "NEU": 0.21014823019504547,
+        "POS": 0.04817155748605728
+      }
+    },
+    "Ugwn351DChd3L0SvLT14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.046574611216783524,
+        "NEU": 0.17517191171646118,
+        "POS": 0.778253436088562
+      }
+    },
+    "UgzhlQvj5vQkSM33fh94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3548552691936493,
+        "NEU": 0.49136173725128174,
+        "POS": 0.15378305315971375
+      }
+    }
+  },
+  "sMUg-LHgIdA": {},
+  "uhOPIXsXX0A": {
+    "Ugz_teL8FxIKWOz9Gf94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.038966890424489975,
+        "NEU": 0.5740916728973389,
+        "POS": 0.38694140315055847
+      }
+    },
+    "Ugy5p_4ZF2TTCR74DyF4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004326315131038427,
+        "NEU": 0.02612917684018612,
+        "POS": 0.969544529914856
+      }
+    },
+    "Ugxo1Vn_6niKSHRsFpd4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0058029755018651485,
+        "NEU": 0.15658818185329437,
+        "POS": 0.837608814239502
+      }
+    },
+    "UgxuXjGap_AK87WECo94AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.1449722945690155,
+        "NEU": 0.4223394989967346,
+        "POS": 0.43268823623657227
+      }
+    },
+    "UgwsKzel8d8pNIz3ABR4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005697605665773153,
+        "NEU": 0.0425802581012249,
+        "POS": 0.9517220854759216
+      }
+    },
+    "Ugw2Kv2UNPdfksQtagd4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.05920504033565521,
+        "NEU": 0.2638944089412689,
+        "POS": 0.6769005656242371
+      }
+    },
+    "UgwKA4f6pKzW1i0qYnN4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.030807049944996834,
+        "NEU": 0.23371176421642303,
+        "POS": 0.7354812026023865
+      }
+    },
+    "Ugz353VQ__EHPYh_jD94AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.013527835719287395,
+        "NEU": 0.1394820362329483,
+        "POS": 0.8469901084899902
+      }
+    },
+    "Ugz_teL8FxIKWOz9Gf94AaABAg.AMf5MSbKVttAMhE5fi0xNb": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.002836390631273389,
+        "NEU": 0.016708776354789734,
+        "POS": 0.9804548621177673
+      }
+    },
+    "Ugy5p_4ZF2TTCR74DyF4AaABAg.AMXt9iCCm7lAMXwUoNgOcO": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004849250894039869,
+        "NEU": 0.08841732889413834,
+        "POS": 0.9067334532737732
+      }
+    },
+    "Ugxo1Vn_6niKSHRsFpd4AaABAg.AMXijsyfdw9AMXwT7Wdaq4": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.006695982068777084,
+        "NEU": 0.09261337667703629,
+        "POS": 0.9006906747817993
+      }
+    },
+    "UgxuXjGap_AK87WECo94AaABAg.AMXQjsOFiQIAMXwRy8R4pU": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.006695982068777084,
+        "NEU": 0.09261337667703629,
+        "POS": 0.9006906747817993
+      }
+    },
+    "UgwsKzel8d8pNIz3ABR4AaABAg.AMQcVkIb1b7AMXwEHIo5Jb": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.006695982068777084,
+        "NEU": 0.09261337667703629,
+        "POS": 0.9006906747817993
+      }
+    },
+    "Ugw2Kv2UNPdfksQtagd4AaABAg.AMQLda4vf3zAMQOQlJiX0P": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004338398110121489,
+        "NEU": 0.05845135450363159,
+        "POS": 0.9372102618217468
+      }
+    },
+    "UgwKA4f6pKzW1i0qYnN4AaABAg.AMQBymVlYtkAMQIrPsFCV7": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.015877630561590195,
+        "NEU": 0.2315697818994522,
+        "POS": 0.7525525689125061
+      }
+    },
+    "Ugz353VQ__EHPYh_jD94AaABAg.AMQBqGc3XlHAMQIpimffBl": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.010331129655241966,
+        "NEU": 0.1602613776922226,
+        "POS": 0.8294075727462769
+      }
+    },
+    "Ugz353VQ__EHPYh_jD94AaABAg.AMQBqGc3XlHAMV_Yk6jfcB": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.011238769628107548,
+        "NEU": 0.12318914383649826,
+        "POS": 0.8655720949172974
+      }
+    }
+  },
+  "pE0yA6fksYM": {},
+  "nScH1KTo1nc": {},
+  "YPeIxihAdfI": {
+    "UgwmP_2ZoHXa6HyiKit4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04921979829668999,
+        "NEU": 0.8980978727340698,
+        "POS": 0.05268232896924019
+      }
+    },
+    "UgyeL4FKQ0I_PS-5qhx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.770633339881897,
+        "NEU": 0.217916801571846,
+        "POS": 0.011449859477579594
+      }
+    },
+    "Ugx9C5r3lkzpsoBrpRx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9352217316627502,
+        "NEU": 0.056146904826164246,
+        "POS": 0.008631381206214428
+      }
+    },
+    "Ugwurm5hL1MeQjIY-Ep4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9618448615074158,
+        "NEU": 0.034728940576314926,
+        "POS": 0.003426124108955264
+      }
+    },
+    "Ugxk0YCxfbWBKJUeA_B4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1926327794790268,
+        "NEU": 0.689932644367218,
+        "POS": 0.1174345463514328
+      }
+    },
+    "UgwBLkQRL8n9d2OQCE14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0043261186219751835,
+        "NEU": 0.01807117648422718,
+        "POS": 0.9776026606559753
+      }
+    },
+    "UgypL4GzA8-x-NEPsXh4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0033304188400506973,
+        "NEU": 0.026302149519324303,
+        "POS": 0.970367431640625
+      }
+    },
+    "UgwK48gtw_-j6MGpLKt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.09731133282184601,
+        "NEU": 0.8568515777587891,
+        "POS": 0.04583702236413956
+      }
+    },
+    "UgySTvT0qKmndQMiJmZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06915462017059326,
+        "NEU": 0.9105615019798279,
+        "POS": 0.02028377167880535
+      }
+    },
+    "UgxpH3Tl96vbksSgk3x4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004614454228430986,
+        "NEU": 0.031572792679071426,
+        "POS": 0.9638127684593201
+      }
+    }
+  },
+  "VkqfWZJdPEo": {
+    "UgwP1NNcPGB2k4jSfmB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.40571585297584534,
+        "NEU": 0.5348337888717651,
+        "POS": 0.05945039168000221
+      }
+    }
+  },
+  "tLozB-ukoxo": {},
+  "SXgAu0CwXh8": {
+    "UgzZweHI-DZZM0qn-tx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.40421465039253235,
+        "NEU": 0.5610262155532837,
+        "POS": 0.034759145230054855
+      }
+    },
+    "UgxeEcISltDReZqtwiF4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03404082730412483,
+        "NEU": 0.3762291371822357,
+        "POS": 0.5897300243377686
+      }
+    },
+    "Ugw3hUN4V-Wmbr9ne814AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2941952645778656,
+        "NEU": 0.6616203784942627,
+        "POS": 0.0441843643784523
+      }
+    },
+    "UgxeEcISltDReZqtwiF4AaABAg.AMKKsnjdcppAMQ-b8k35GM": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0032361787743866444,
+        "NEU": 0.04867256060242653,
+        "POS": 0.9480912685394287
+      }
+    },
+    "Ugw3hUN4V-Wmbr9ne814AaABAg.AMJ02MQStjfAMQ-IL2zPQe": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.011215262115001678,
+        "NEU": 0.582656979560852,
+        "POS": 0.4061277210712433
+      }
+    }
+  },
+  "9Z3cSJNeBbo": {
+    "UgyMeftlUlsHopzZRAl4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.38695040345191956,
+        "NEU": 0.45099321007728577,
+        "POS": 0.16205638647079468
+      }
+    }
+  },
+  "Eikq-QyV9s4": {
+    "UgzFwwb339psReZbyzx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8638581037521362,
+        "NEU": 0.11860796064138412,
+        "POS": 0.01753402315080166
+      }
+    },
+    "UgxB_S_Mw89RSJuegMl4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.36653390526771545,
+        "NEU": 0.6019600033760071,
+        "POS": 0.031506046652793884
+      }
+    }
+  },
+  "iNcJXx-WsIM": {
+    "UgzoC82p02WYwj7049N4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.21312905848026276,
+        "NEU": 0.28887054324150085,
+        "POS": 0.49800029397010803
+      }
+    },
+    "Ugwn-DEiVR84zD5LgIB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.20999230444431305,
+        "NEU": 0.7263196706771851,
+        "POS": 0.0636880174279213
+      }
+    },
+    "Ugxs0c8bym4gp8kuysh4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.013766075484454632,
+        "NEU": 0.14308857917785645,
+        "POS": 0.8431453108787537
+      }
+    },
+    "UgzjN_zjrsHoSmAcTiJ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7801533937454224,
+        "NEU": 0.20575091242790222,
+        "POS": 0.014095698483288288
+      }
+    },
+    "Ugxa0n0KndAZfL6Aq094AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.16748929023742676,
+        "NEU": 0.7956488132476807,
+        "POS": 0.036861930042505264
+      }
+    },
+    "UgxExSXN0_77294Pjjx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.16613146662712097,
+        "NEU": 0.7612743973731995,
+        "POS": 0.07259418070316315
+      }
+    },
+    "Ugzcjgewx6H0dUlymuV4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.46348777413368225,
+        "NEU": 0.45431849360466003,
+        "POS": 0.08219373226165771
+      }
+    },
+    "Ugw3VyoOXiZn1cMCwnV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04055047035217285,
+        "NEU": 0.554962694644928,
+        "POS": 0.4044868052005768
+      }
+    },
+    "Ugyn3ZfQmYhbYnjstiJ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.46348777413368225,
+        "NEU": 0.45431849360466003,
+        "POS": 0.08219373226165771
+      }
+    },
+    "UgySnww_WMWce2QrCIt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.0650549978017807,
+        "NEU": 0.7073725461959839,
+        "POS": 0.22757244110107422
+      }
+    },
+    "Ugxew5ZQbMy8Zjf4VP14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.22229544818401337,
+        "NEU": 0.6373075246810913,
+        "POS": 0.1403970867395401
+      }
+    },
+    "UgxVLJ0v6g3w2CS8wzp4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.10471075773239136,
+        "NEU": 0.7263398766517639,
+        "POS": 0.16894938051700592
+      }
+    },
+    "UgzLl46vkldC1nrG7DB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.21230120956897736,
+        "NEU": 0.70732581615448,
+        "POS": 0.08037292957305908
+      }
+    },
+    "UgzpsIkjIy22xZyqId14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.038665853440761566,
+        "NEU": 0.202937051653862,
+        "POS": 0.7583970427513123
+      }
+    }
+  },
+  "zr0MI61qlQI": {
+    "UgwncBH-YLAQq9-ZvNt4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9435032606124878,
+        "NEU": 0.053441449999809265,
+        "POS": 0.0030553254764527082
+      }
+    },
+    "UgyT7v26bXm6oXo5o5N4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9068103432655334,
+        "NEU": 0.07347414642572403,
+        "POS": 0.019715553149580956
+      }
+    },
+    "UgzSiC4_wRzSTcG_3ZN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3173067569732666,
+        "NEU": 0.5176142454147339,
+        "POS": 0.16507896780967712
+      }
+    },
+    "UgwrjzS9r_UH8xWnY-x4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03313419967889786,
+        "NEU": 0.4100581705570221,
+        "POS": 0.5568076372146606
+      }
+    }
+  },
+  "8zh9HV4A0fg": {
+    "UgyF6wKNQpM0Ov4VHl94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9478780627250671,
+        "NEU": 0.048569366335868835,
+        "POS": 0.003552583744749427
+      }
+    },
+    "Ugwud-s4Tfb_Pe_8O0l4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9159607887268066,
+        "NEU": 0.07432066649198532,
+        "POS": 0.009718528017401695
+      }
+    },
+    "UgxXc7hOB_P1slOq3GB4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0027533029206097126,
+        "NEU": 0.021890200674533844,
+        "POS": 0.9753564596176147
+      }
+    },
+    "UgzPVyo4gQ8BDyXhRox4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.4614899158477783,
+        "NEU": 0.5265725255012512,
+        "POS": 0.011937521398067474
+      }
+    },
+    "UgyHZGwWlWOUVt_KUSx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.03925889730453491,
+        "NEU": 0.913407564163208,
+        "POS": 0.047333572059869766
+      }
+    },
+    "Ugz-JDX6-Phpsyei7lt4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5362056493759155,
+        "NEU": 0.445928692817688,
+        "POS": 0.017865682020783424
+      }
+    },
+    "UgyHy8M_NEUOe8h8HbZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5294699668884277,
+        "NEU": 0.43019530177116394,
+        "POS": 0.040334708988666534
+      }
+    },
+    "UgwWzM5rrtiGc3Hr8PB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04122372716665268,
+        "NEU": 0.934278666973114,
+        "POS": 0.024497540667653084
+      }
+    },
+    "UgzcBe_tF6la3iWhZaZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5801057815551758,
+        "NEU": 0.353141188621521,
+        "POS": 0.06675302237272263
+      }
+    },
+    "UgxbMWKqe5jLg3FleaB4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.023994095623493195,
+        "NEU": 0.16874931752681732,
+        "POS": 0.8072566390037537
+      }
+    },
+    "UgzoP37app4B3UdFsqt4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008357787504792213,
+        "NEU": 0.046084318310022354,
+        "POS": 0.9455579519271851
+      }
+    },
+    "UgyjosuTPgAwP7SVgb54AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5750101208686829,
+        "NEU": 0.4028076231479645,
+        "POS": 0.022182216867804527
+      }
+    },
+    "Ugw-q8l2ffmMxq1xrjJ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1403191089630127,
+        "NEU": 0.8321215510368347,
+        "POS": 0.027559414505958557
+      }
+    }
+  },
+  "IgsNY6-ZFtc": {
+    "UgyPgDsHU87qFXXX0IF4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03531630337238312,
+        "NEU": 0.18615926802158356,
+        "POS": 0.7785244584083557
+      }
+    }
+  },
+  "WDE_5y8FiNU": {
+    "UgwAPvYG-wlaN-BOurt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.18888309597969055,
+        "NEU": 0.6643325090408325,
+        "POS": 0.14678439497947693
+      }
+    },
+    "UgwDvLnENsBK8G5jCax4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.4168815314769745,
+        "NEU": 0.5583633184432983,
+        "POS": 0.024755163118243217
+      }
+    },
+    "UgxjIfApLR0bkM0hH3V4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5451157689094543,
+        "NEU": 0.4327789843082428,
+        "POS": 0.02210526540875435
+      }
+    }
+  },
+  "kMArDZ_omSM": {
+    "Ugyl36UHdHBhrSrQYMR4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0050482070073485374,
+        "NEU": 0.0623994879424572,
+        "POS": 0.9325522780418396
+      }
+    },
+    "UgxeZxnr8OVqwoJ4-Fx4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.003963150549679995,
+        "NEU": 0.03970116749405861,
+        "POS": 0.9563356637954712
+      }
+    },
+    "UgxkhXQbfAZPW8gb1ht4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9251484870910645,
+        "NEU": 0.0692334845662117,
+        "POS": 0.005618093069642782
+      }
+    }
+  },
+  "4CLDes04ii8": {
+    "UgylfccYJguU29J05PJ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.050844449549913406,
+        "NEU": 0.9184873104095459,
+        "POS": 0.03066825121641159
+      }
+    },
+    "UgxN4ZIatpLK5ePJKad4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6624618172645569,
+        "NEU": 0.3281717300415039,
+        "POS": 0.009366482496261597
+      }
+    }
+  },
+  "Z1NoSWUi9Fk": {
+    "UgwOPoBBafgFaI5bXSZ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.1325230598449707,
+        "NEU": 0.2038414627313614,
+        "POS": 0.6636355519294739
+      }
+    },
+    "Ugwj6cw77Pkl9LSCquJ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.21868231892585754,
+        "NEU": 0.6916284561157227,
+        "POS": 0.0896892100572586
+      }
+    },
+    "UgxMjq5N5sH-geOFsNh4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.0339471735060215,
+        "NEU": 0.7268339395523071,
+        "POS": 0.23921889066696167
+      }
+    },
+    "UgxKPaWuJXMvngOoSXx4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008405831642448902,
+        "NEU": 0.041021928191185,
+        "POS": 0.9505722522735596
+      }
+    }
+  },
+  "Bezwkd8ZLJI": {
+    "Ugw2xmeH1SYxbQZwehV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08438383787870407,
+        "NEU": 0.6849721074104309,
+        "POS": 0.23064406216144562
+      }
+    }
+  },
+  "Tstyjuu6rfc": {
+    "UgwoeMpuBrnMRUsxtLh4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.18732406198978424,
+        "NEU": 0.7048300504684448,
+        "POS": 0.10784592479467392
+      }
+    },
+    "UgwAmHlLpL8jd92rde94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.4259392023086548,
+        "NEU": 0.5639320015907288,
+        "POS": 0.010128790512681007
+      }
+    },
+    "UgxfnViyI1FjhoFfQi14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.15455149114131927,
+        "NEU": 0.7520262002944946,
+        "POS": 0.09342227131128311
+      }
+    },
+    "UgwBRlyDzrWbEFiTgrZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08438488841056824,
+        "NEU": 0.8524424433708191,
+        "POS": 0.06317269802093506
+      }
+    },
+    "UgxPCXixHrP87B2-Lsh4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.10773392766714096,
+        "NEU": 0.8206183910369873,
+        "POS": 0.07164762169122696
+      }
+    },
+    "Ugy1EtxxSzupr98CjT94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9811888337135315,
+        "NEU": 0.016317712143063545,
+        "POS": 0.0024934951215982437
+      }
+    },
+    "Ugw1ZKwa8uZvD93a0oR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.03973487392067909,
+        "NEU": 0.9142507314682007,
+        "POS": 0.046014342457056046
+      }
+    },
+    "UgwbHsMOfHquEF2fwix4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9485008716583252,
+        "NEU": 0.046621374785900116,
+        "POS": 0.0048777516931295395
+      }
+    },
+    "UgxiZD3tdC46Qs0Ggup4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.22204086184501648,
+        "NEU": 0.737684965133667,
+        "POS": 0.040274154394865036
+      }
+    },
+    "Ugwe1LFgtaQAhg_a9IF4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8579484224319458,
+        "NEU": 0.13429993391036987,
+        "POS": 0.007751700934022665
+      }
+    },
+    "UgyzQphMtnRpRx1VHLp4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7138364911079407,
+        "NEU": 0.27658307552337646,
+        "POS": 0.009580478072166443
+      }
+    },
+    "UgwmkNXKObFGzm3bYX54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004884721245616674,
+        "NEU": 0.05042419582605362,
+        "POS": 0.9446910619735718
+      }
+    }
+  },
+  "tfA92KVT6x4": {
+    "UgzVNOLH-ACfyhacclF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2580384314060211,
+        "NEU": 0.6454432010650635,
+        "POS": 0.09651840478181839
+      }
+    },
+    "UgwQITLFMiJ8QjAVdg94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.976604163646698,
+        "NEU": 0.020763996988534927,
+        "POS": 0.0026317951269447803
+      }
+    },
+    "UgyPTVBLVT8cuVqxzeZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.40179070830345154,
+        "NEU": 0.5701482892036438,
+        "POS": 0.028061071410775185
+      }
+    }
+  },
+  "CY5KkyaSbak": {
+    "UgwgOsN9AVveHocF36R4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07007305324077606,
+        "NEU": 0.6981770992279053,
+        "POS": 0.23174989223480225
+      }
+    }
+  },
+  "Vc61b1mRBlI": {
+    "UgxCb_e69Ahb5k06hM54AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.943889856338501,
+        "NEU": 0.05122748762369156,
+        "POS": 0.004882624372839928
+      }
+    },
+    "Ugx8PKkxeO0EYUSjbDN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2013734132051468,
+        "NEU": 0.7558722496032715,
+        "POS": 0.042754318565130234
+      }
+    },
+    "UgzPjmJOo1b8jgle3IB4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03313419967889786,
+        "NEU": 0.4100581705570221,
+        "POS": 0.5568076372146606
+      }
+    }
+  },
+  "h0xbpAhQfDs": {
+    "Ugw8pD2NecjOR_NWd014AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6325929164886475,
+        "NEU": 0.3595030605792999,
+        "POS": 0.007904051803052425
+      }
+    },
+    "UgzUi627Fq_ZoJTdsh94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7562701106071472,
+        "NEU": 0.199750617146492,
+        "POS": 0.0439792238175869
+      }
+    },
+    "UgyMcNpl-E-ZjLaxvPh4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5497825145721436,
+        "NEU": 0.4211702048778534,
+        "POS": 0.02904730662703514
+      }
+    },
+    "UgzAUVy0yeY7olv5ci54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.028635473921895027,
+        "NEU": 0.9021364450454712,
+        "POS": 0.06922806799411774
+      }
+    },
+    "Ugx_ZvsaYPQC73q1Mll4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.16088326275348663,
+        "NEU": 0.6355230212211609,
+        "POS": 0.20359371602535248
+      }
+    },
+    "UgwPlY3jlPH_u7NJw7l4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3899061679840088,
+        "NEU": 0.5945414900779724,
+        "POS": 0.015552345663309097
+      }
+    },
+    "UgxHI61-8BgOp3UlYE94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5662937164306641,
+        "NEU": 0.42301684617996216,
+        "POS": 0.010689442977309227
+      }
+    },
+    "Ugy6kTTybAEJia3TwBx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.15770530700683594,
+        "NEU": 0.704528272151947,
+        "POS": 0.13776646554470062
+      }
+    },
+    "Ugx4y0sSjyIMNjMJPUp4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.29700419306755066,
+        "NEU": 0.5719364285469055,
+        "POS": 0.13105937838554382
+      }
+    },
+    "Ugz3LYubvROy0J4Ma7d4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.10306692868471146,
+        "NEU": 0.7086454629898071,
+        "POS": 0.18828755617141724
+      }
+    },
+    "UgzCzxuKOO1k2w3Uh_J4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.031515173614025116,
+        "NEU": 0.21062135696411133,
+        "POS": 0.757863461971283
+      }
+    },
+    "UgydX-5kdTFB2VC7SAt4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.3813757598400116,
+        "NEU": 0.2817813456058502,
+        "POS": 0.3368428647518158
+      }
+    },
+    "Ugzi4U0wIXKTchj-1ih4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005183035042136908,
+        "NEU": 0.03364218398928642,
+        "POS": 0.9611747860908508
+      }
+    },
+    "UgxMTHagCWRmA3qAJCh4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.006076103076338768,
+        "NEU": 0.03410429507493973,
+        "POS": 0.9598195552825928
+      }
+    },
+    "UgywerikNmwEDogJTc14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.09783994406461716,
+        "NEU": 0.7261340022087097,
+        "POS": 0.17602604627609253
+      }
+    },
+    "Ugz99OtDBXqBoLfNObJ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3685084581375122,
+        "NEU": 0.5964045524597168,
+        "POS": 0.035086918622255325
+      }
+    },
+    "UgyvB79xvSJSzwX9lrp4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.02669575624167919,
+        "NEU": 0.5097470283508301,
+        "POS": 0.4635571837425232
+      }
+    },
+    "Ugwen5QTkei-Y881NKx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8154777884483337,
+        "NEU": 0.1504962295293808,
+        "POS": 0.03402595967054367
+      }
+    },
+    "Ugwk0Mf6ovBA9npDDel4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.007274717092514038,
+        "NEU": 0.03584767132997513,
+        "POS": 0.956877589225769
+      }
+    },
+    "Ugx4dFZbLc1jHWc4XuZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07104481756687164,
+        "NEU": 0.76988685131073,
+        "POS": 0.1590682864189148
+      }
+    },
+    "Ugzw6g35QKSfsoscO4V4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.13195392489433289,
+        "NEU": 0.839392364025116,
+        "POS": 0.02865363284945488
+      }
+    },
+    "UgyX1sSwEzKmr7mf_1R4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0032826971728354692,
+        "NEU": 0.024139057844877243,
+        "POS": 0.972578227519989
+      }
+    },
+    "Ugyay039a_E_OrTcPrp4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.03142160922288895,
+        "NEU": 0.7517200708389282,
+        "POS": 0.21685834228992462
+      }
+    },
+    "UgwOyl6kUfKCL1TM1AN4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.08148758113384247,
+        "NEU": 0.4097791314125061,
+        "POS": 0.5087332725524902
+      }
+    },
+    "UgxCny60ycJzqrIg7ZN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7747267484664917,
+        "NEU": 0.2065609097480774,
+        "POS": 0.01871238462626934
+      }
+    },
+    "UgzxY5gf2fJ9cOIgQjN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2584805190563202,
+        "NEU": 0.6010787487030029,
+        "POS": 0.14044076204299927
+      }
+    },
+    "UgxjeIrAPKGhW4U3dup4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.009759916923940182,
+        "NEU": 0.09622624516487122,
+        "POS": 0.8940138816833496
+      }
+    },
+    "Ugy-qhknwlEsF8XnXc54AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5365900993347168,
+        "NEU": 0.3728136718273163,
+        "POS": 0.09059621393680573
+      }
+    },
+    "UgxSOs2pbmaAwMLZxGF4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.037651628255844116,
+        "NEU": 0.21421261131763458,
+        "POS": 0.7481357455253601
+      }
+    },
+    "Ugybuh0xJzahcCpHRnx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8371851444244385,
+        "NEU": 0.15039512515068054,
+        "POS": 0.012419650331139565
+      }
+    },
+    "Ugzh7_13wwzcZz7R8Cd4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.012829401530325413,
+        "NEU": 0.06451543420553207,
+        "POS": 0.9226551651954651
+      }
+    },
+    "UgxYbC5enWqoUh-Zpqt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.16885046660900116,
+        "NEU": 0.4961085319519043,
+        "POS": 0.3350408971309662
+      }
+    },
+    "Ugzz6LYtlwcNI8vt80N4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03459632769227028,
+        "NEU": 0.19686907529830933,
+        "POS": 0.7685346007347107
+      }
+    },
+    "UgynJi-HN_54K33wjwJ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.028149817138910294,
+        "NEU": 0.2780361473560333,
+        "POS": 0.6938139796257019
+      }
+    },
+    "UgxFxU5Y8CL3aFBTE-94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.11394117027521133,
+        "NEU": 0.6367727518081665,
+        "POS": 0.24928607046604156
+      }
+    },
+    "UgwWkjIPs2_snsEW7dF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.4340988099575043,
+        "NEU": 0.5476911067962646,
+        "POS": 0.018210124224424362
+      }
+    },
+    "Ugwny016d9IvgW6bx1J4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8294649720191956,
+        "NEU": 0.1616121232509613,
+        "POS": 0.008922913111746311
+      }
+    },
+    "Ugyo_fbPI2cf061pXql4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9523401260375977,
+        "NEU": 0.043901316821575165,
+        "POS": 0.003758567152544856
+      }
+    },
+    "UgwDT5w84_AHqmeZxUV4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.036323580890893936,
+        "NEU": 0.3412969410419464,
+        "POS": 0.62237948179245
+      }
+    },
+    "Ugx7VuK363cCU4YZqZZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.11960333585739136,
+        "NEU": 0.8413074612617493,
+        "POS": 0.039089128375053406
+      }
+    },
+    "Ugx3xuCO-49Mcm6DWe54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2981683909893036,
+        "NEU": 0.5315634608268738,
+        "POS": 0.17026816308498383
+      }
+    },
+    "UgyUnhasE3W2SyTfVKx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7916600704193115,
+        "NEU": 0.19869984686374664,
+        "POS": 0.009640148840844631
+      }
+    },
+    "UgzSIRUQrwObML8mjYV4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5031450390815735,
+        "NEU": 0.3842734396457672,
+        "POS": 0.11258154362440109
+      }
+    },
+    "UgzAnZjOpx-VUQyIhoR4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.05446198955178261,
+        "NEU": 0.3879123032093048,
+        "POS": 0.5576257109642029
+      }
+    },
+    "Ugz4iuMV9r5vsWLeyWt4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.00668224086984992,
+        "NEU": 0.03708982467651367,
+        "POS": 0.9562279582023621
+      }
+    },
+    "UgxgAW_hx2SG8OvepP14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.11498662084341049,
+        "NEU": 0.8449808955192566,
+        "POS": 0.040032438933849335
+      }
+    },
+    "UgzVLo0N_aD1fzU6GF54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004021658096462488,
+        "NEU": 0.026770636439323425,
+        "POS": 0.9692077040672302
+      }
+    },
+    "Ugwj4iq1leYbsDZPqqx4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.031515173614025116,
+        "NEU": 0.21062135696411133,
+        "POS": 0.757863461971283
+      }
+    },
+    "Ugx6uBHS_9FamtuIA-R4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08451662957668304,
+        "NEU": 0.48684436082839966,
+        "POS": 0.4286389648914337
+      }
+    },
+    "Ugzdw1w-3Dk0nvCVZBx4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.05355137586593628,
+        "NEU": 0.13306018710136414,
+        "POS": 0.8133884072303772
+      }
+    },
+    "UgzB7IeKSJLqkcQj8UZ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.10185880959033966,
+        "NEU": 0.25300681591033936,
+        "POS": 0.6451343894004822
+      }
+    },
+    "Ugz6WzW3etm1PucaqT54AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.585795521736145,
+        "NEU": 0.17769597470760345,
+        "POS": 0.23650851845741272
+      }
+    },
+    "UgxE0P5BiJy8ZsAl2o54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.002854051999747753,
+        "NEU": 0.022846687585115433,
+        "POS": 0.9742991924285889
+      }
+    },
+    "UgxUiMSaAHVi_5EnMzJ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.017328962683677673,
+        "NEU": 0.08754966408014297,
+        "POS": 0.8951213359832764
+      }
+    },
+    "Ugw_UFhobMY_enb55qB4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.051820218563079834,
+        "NEU": 0.175167053937912,
+        "POS": 0.7730126976966858
+      }
+    },
+    "UgwAXErZ1vuFb1_P92Z4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.031515173614025116,
+        "NEU": 0.21062135696411133,
+        "POS": 0.757863461971283
+      }
+    },
+    "UgzOS2zjSbIiCFHsfdd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9341254234313965,
+        "NEU": 0.05342448875308037,
+        "POS": 0.0124500822275877
+      }
+    },
+    "Ugw-H9-vfg_HLZHhGpZ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008373684249818325,
+        "NEU": 0.0618303045630455,
+        "POS": 0.9297959804534912
+      }
+    },
+    "UgyB70lHiz3EkfDh3pZ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005332706496119499,
+        "NEU": 0.032506510615348816,
+        "POS": 0.9621607065200806
+      }
+    },
+    "Ugwb_5Ve6GjTOf7EHtZ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005252765491604805,
+        "NEU": 0.06468259543180466,
+        "POS": 0.9300646185874939
+      }
+    },
+    "UgzrApAuZf5U_WS_24d4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.006246801931411028,
+        "NEU": 0.025403818115592003,
+        "POS": 0.9683493375778198
+      }
+    },
+    "Ugx4bjmgLdp4u-YbF1F4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0019567583221942186,
+        "NEU": 0.016812093555927277,
+        "POS": 0.981231153011322
+      }
+    },
+    "UgyNqHMewgJhwtj40r14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7162811160087585,
+        "NEU": 0.26110461354255676,
+        "POS": 0.022614246234297752
+      }
+    },
+    "UgxF5G7lKTLyVepikM94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.09867625683546066,
+        "NEU": 0.8080687522888184,
+        "POS": 0.09325499087572098
+      }
+    },
+    "UgwfbuwEndVdQ9wOZbN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07341963052749634,
+        "NEU": 0.5070705413818359,
+        "POS": 0.4195098280906677
+      }
+    },
+    "Ugw--3DyjghVqXR_eXV4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9308375120162964,
+        "NEU": 0.06069308891892433,
+        "POS": 0.008469315245747566
+      }
+    },
+    "Ugw_MAUiuBeHZHwPTNt4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005366354715079069,
+        "NEU": 0.058474354445934296,
+        "POS": 0.9361593127250671
+      }
+    },
+    "UgzAnlbpqB2G84eQHtN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.4946727454662323,
+        "NEU": 0.42882564663887024,
+        "POS": 0.07650159299373627
+      }
+    },
+    "Ugy7yHOPLxr2_zh0cG54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.13639362156391144,
+        "NEU": 0.5722153782844543,
+        "POS": 0.291390985250473
+      }
+    },
+    "Ugyzz8hVsl8iOUvCAh94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8202889561653137,
+        "NEU": 0.16842663288116455,
+        "POS": 0.01128441747277975
+      }
+    },
+    "UgyHIZ6E-Ro1wg9SfiJ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5657110214233398,
+        "NEU": 0.41884198784828186,
+        "POS": 0.015447009354829788
+      }
+    },
+    "Ugw4U7IsRe9EvsuQSj54AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9224867224693298,
+        "NEU": 0.05519617721438408,
+        "POS": 0.02231709100306034
+      }
+    },
+    "UgxBKG403KI3FzOHJgx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07952074706554413,
+        "NEU": 0.812719464302063,
+        "POS": 0.10775978863239288
+      }
+    },
+    "UgzvZKlzjHUprILNdIl4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.00954150315374136,
+        "NEU": 0.030136145651340485,
+        "POS": 0.960322380065918
+      }
+    },
+    "Ugy2F3dgYtolmS5PQJZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8544291257858276,
+        "NEU": 0.1316465586423874,
+        "POS": 0.013924348168075085
+      }
+    },
+    "Ugx3u_2v3HCKyHygtdh4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5401813983917236,
+        "NEU": 0.4478299617767334,
+        "POS": 0.011988637037575245
+      }
+    },
+    "UgwJqMmNUQhaaghNHAx4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005425331648439169,
+        "NEU": 0.038192495703697205,
+        "POS": 0.9563822150230408
+      }
+    },
+    "UgyqKIh4db-7AxpQUHl4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005880937911570072,
+        "NEU": 0.03379933908581734,
+        "POS": 0.9603197574615479
+      }
+    },
+    "UgyQ9yWwpUj7x8sVvN14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8325703144073486,
+        "NEU": 0.13527557253837585,
+        "POS": 0.032154157757759094
+      }
+    }
+  },
+  "cHd5tiWRvMo": {
+    "UgzBLbPseztb4579jNR4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7785162329673767,
+        "NEU": 0.20707599818706512,
+        "POS": 0.014407833106815815
+      }
+    },
+    "Ugw1lFWzlKMQFoaUIbh4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.012228193692862988,
+        "NEU": 0.04043782502412796,
+        "POS": 0.9473339319229126
+      }
+    },
+    "UgwadIa_PtRnZq2wf9B4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.024165252223610878,
+        "NEU": 0.23555432260036469,
+        "POS": 0.7402804493904114
+      }
+    },
+    "Ugx6cp1JhQIZoZskZtN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28770291805267334,
+        "NEU": 0.6785401701927185,
+        "POS": 0.03375695273280144
+      }
+    }
+  },
+  "yyHScsAVbj0": {
+    "UgxURhm7qSvDptPDq4l4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9325885772705078,
+        "NEU": 0.06276644021272659,
+        "POS": 0.004644994158297777
+      }
+    },
+    "Ugzusz5ujOYluumm_wN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9438822269439697,
+        "NEU": 0.052980292588472366,
+        "POS": 0.0031375200487673283
+      }
+    },
+    "Ugx8r7F7jmufbqXcCYd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.971430242061615,
+        "NEU": 0.024516090750694275,
+        "POS": 0.004053696524351835
+      }
+    }
+  },
+  "JpfEPxpi94o": {
+    "UgzCFChD7530-zWbGpZ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004333675839006901,
+        "NEU": 0.0354219526052475,
+        "POS": 0.9602442979812622
+      }
+    },
+    "Ugxvr4gQBJrUtCxfoe14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0195212010294199,
+        "NEU": 0.18574069440364838,
+        "POS": 0.7947380542755127
+      }
+    },
+    "Ugw6hSup-Enk0YwBepZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7876014113426208,
+        "NEU": 0.20106908679008484,
+        "POS": 0.011329579167068005
+      }
+    },
+    "UgwMxDcOi2o-dKsHgxZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7805541753768921,
+        "NEU": 0.2061987966299057,
+        "POS": 0.013247033581137657
+      }
+    },
+    "UgxAi1zZZXxHTgwzBRx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9210864901542664,
+        "NEU": 0.07407201081514359,
+        "POS": 0.004841475281864405
+      }
+    },
+    "UgzABxfMhhkk3qLjDip4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.01471975538879633,
+        "NEU": 0.1992868334054947,
+        "POS": 0.7859934568405151
+      }
+    },
+    "Ugx344Kgs4R5kl5Muad4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0035799513570964336,
+        "NEU": 0.0600045882165432,
+        "POS": 0.936415433883667
+      }
+    },
+    "Ugx4uxdi9cByQBecsEt4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.003115453291684389,
+        "NEU": 0.019724557176232338,
+        "POS": 0.9771600365638733
+      }
+    },
+    "UgzzgHoMwTThOTUBZ9V4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.030498599633574486,
+        "NEU": 0.12082970142364502,
+        "POS": 0.8486716747283936
+      }
+    }
+  },
+  "B8qfloetTnc": {
+    "UgwxQRf_-wj9BkrNAax4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08104221522808075,
+        "NEU": 0.7802929282188416,
+        "POS": 0.13866476714611053
+      }
+    },
+    "UgzHNgORZXVwS-wbJwx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07799436151981354,
+        "NEU": 0.7733493447303772,
+        "POS": 0.14865624904632568
+      }
+    },
+    "UgzLpMQaf7ctIaznQUF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.41419288516044617,
+        "NEU": 0.548809826374054,
+        "POS": 0.036997273564338684
+      }
+    },
+    "UgzlPW8FNFmJnge0GtB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06279171258211136,
+        "NEU": 0.9180811047554016,
+        "POS": 0.019127199426293373
+      }
+    },
+    "Ugy4-6SfyZY4ZnE5Cel4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.14399531483650208,
+        "NEU": 0.6271215081214905,
+        "POS": 0.22888322174549103
+      }
+    },
+    "UgyRn5XfWyBB4dXbmX54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06279171258211136,
+        "NEU": 0.9180811047554016,
+        "POS": 0.019127199426293373
+      }
+    }
+  },
+  "Cq6P75F0Pws": {
+    "Ugyok4t6aCjacBjYEg94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.34231141209602356,
+        "NEU": 0.504694938659668,
+        "POS": 0.1529936045408249
+      }
+    }
+  },
+  "-V1oqfCIqmU": {
+    "UgwTDaftCqsTBlQXxt94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.0302922073751688,
+        "NEU": 0.7794232964515686,
+        "POS": 0.19028450548648834
+      }
+    },
+    "Ugyq2Kr-HUFqu97Jt4Z4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.01986052468419075,
+        "NEU": 0.7183405160903931,
+        "POS": 0.2617989778518677
+      }
+    }
+  },
+  "OS0UXW9zT68": {
+    "UgwACr0FdxgOEUWpwGZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.03445272892713547,
+        "NEU": 0.8587613701820374,
+        "POS": 0.1067858636379242
+      }
+    },
+    "UgyHGs1onaTyANfXPrt4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8584641814231873,
+        "NEU": 0.13365305960178375,
+        "POS": 0.007882853038609028
+      }
+    },
+    "UgwIhszOG_unIHX8nsR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2284097671508789,
+        "NEU": 0.7236674427986145,
+        "POS": 0.04792280122637749
+      }
+    },
+    "UgyZfZFuH3_P1hroNFJ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.21066853404045105,
+        "NEU": 0.7003291249275208,
+        "POS": 0.08900231122970581
+      }
+    },
+    "Ugzk79GzpOyXET14lwR4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6194308400154114,
+        "NEU": 0.34226712584495544,
+        "POS": 0.038302019238471985
+      }
+    }
+  },
+  "Nbr18omDXp8": {
+    "UgziJCcW-HoM-ksjIGt4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0068306755274534225,
+        "NEU": 0.43040329217910767,
+        "POS": 0.5627660155296326
+      }
+    },
+    "UgxIvJNp0Ueb89un9w14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.24629713594913483,
+        "NEU": 0.6992537379264832,
+        "POS": 0.05444912984967232
+      }
+    },
+    "UgxwnbFQDsBE2o7PfgN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7269666194915771,
+        "NEU": 0.24323061108589172,
+        "POS": 0.02980278618633747
+      }
+    },
+    "UgzuuyOBLs8hCkE7io14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004655005875974894,
+        "NEU": 0.021739179268479347,
+        "POS": 0.9736058115959167
+      }
+    },
+    "UgwOg5SwBklstpjQFLN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7772963047027588,
+        "NEU": 0.21177174150943756,
+        "POS": 0.010931991040706635
+      }
+    },
+    "UgwEinU8r6s7DGsnb5d4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5054018497467041,
+        "NEU": 0.4794710874557495,
+        "POS": 0.015127102844417095
+      }
+    },
+    "UgyNE5BrNMDlwhVlC8F4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.007321648299694061,
+        "NEU": 0.03233512490987778,
+        "POS": 0.9603432416915894
+      }
+    },
+    "UgyNawNsuy8rsFmhXq54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07258002460002899,
+        "NEU": 0.4680175483226776,
+        "POS": 0.4594024121761322
+      }
+    },
+    "Ugxgm-k6xG1MkA-Rm1l4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8031894564628601,
+        "NEU": 0.1882277876138687,
+        "POS": 0.00858271960169077
+      }
+    },
+    "UgyITCOuXBzdOKWJC2R4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8250138759613037,
+        "NEU": 0.16138039529323578,
+        "POS": 0.013605720363557339
+      }
+    },
+    "UgwEj3J3wW-NojRmvTZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9114886522293091,
+        "NEU": 0.08427156507968903,
+        "POS": 0.0042397091165184975
+      }
+    },
+    "UgxZYvDiBl1Jm98xoA54AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8752130270004272,
+        "NEU": 0.11985787004232407,
+        "POS": 0.004929178394377232
+      }
+    },
+    "UgzwmZPbMFcRDWNwOv14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9660007953643799,
+        "NEU": 0.03132299706339836,
+        "POS": 0.0026762420311570168
+      }
+    },
+    "UgyjSv5WDCYiF8oOoFB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.10946729779243469,
+        "NEU": 0.6779512166976929,
+        "POS": 0.2125815600156784
+      }
+    }
+  },
+  "Sf0GaTULv2g": {},
+  "FKsNZN2vg8A": {
+    "Ugxeawytdz54DSgwbkZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.09987983852624893,
+        "NEU": 0.6690292358398438,
+        "POS": 0.23109102249145508
+      }
+    },
+    "UgyPQSb13X4gvMGA_ut4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.31712496280670166,
+        "NEU": 0.6442458629608154,
+        "POS": 0.038629237562417984
+      }
+    },
+    "UgxD6TcTR7zfTSlERFl4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0034308945760130882,
+        "NEU": 0.05933133512735367,
+        "POS": 0.9372377991676331
+      }
+    }
+  },
+  "qn5tBfzi9I4": {},
+  "H699cLB2F4Q": {
+    "UgwW5-miQby5XSc3GSp4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6664736270904541,
+        "NEU": 0.21838191151618958,
+        "POS": 0.1151445209980011
+      }
+    },
+    "UgzlLRLS3r7x4XX5kVF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.12635444104671478,
+        "NEU": 0.47907254099845886,
+        "POS": 0.39457303285598755
+      }
+    },
+    "Ugy0FljeP5BIHRvepMN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9751166701316833,
+        "NEU": 0.022451190277934074,
+        "POS": 0.002432150999084115
+      }
+    },
+    "UgyDQijzoQD-oYQoJCh4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2509482502937317,
+        "NEU": 0.7367856502532959,
+        "POS": 0.012266130186617374
+      }
+    },
+    "UgwwbMiLESmbIX5Po2t4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9529318809509277,
+        "NEU": 0.041200071573257446,
+        "POS": 0.005868082866072655
+      }
+    },
+    "UgwSWhXw5hmBYywhdwV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2509482502937317,
+        "NEU": 0.7367856502532959,
+        "POS": 0.012266130186617374
+      }
+    },
+    "Ugw32IEfeb6fL4a0Qk14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8459028601646423,
+        "NEU": 0.14537464082241058,
+        "POS": 0.008722562342882156
+      }
+    },
+    "UgwSWhXw5hmBYywhdwV4AaABAg.ANAvqhTq_ycANBHHj8-qp9": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.03712631016969681,
+        "NEU": 0.9045746922492981,
+        "POS": 0.0582989864051342
+      }
+    }
+  },
+  "l1MsdLqqAjA": {
+    "Ugw1UuL11jDY6vSQUZR4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9793323278427124,
+        "NEU": 0.01802271232008934,
+        "POS": 0.002644988941028714
+      }
+    },
+    "Ugw1UuL11jDY6vSQUZR4AaABAg.ANARdsuBjL3ANB26_l_Qvj": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08720076829195023,
+        "NEU": 0.6960716843605042,
+        "POS": 0.21672746539115906
+      }
+    },
+    "Ugw1UuL11jDY6vSQUZR4AaABAg.ANARdsuBjL3ANBIJtKKPZq": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03482632711529732,
+        "NEU": 0.11377696692943573,
+        "POS": 0.8513966798782349
+      }
+    }
+  },
+  "onyj9FU7Dxs": {
+    "Ugyb0dfOuW6Kzdcyf594AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3277435004711151,
+        "NEU": 0.6078685522079468,
+        "POS": 0.06438793987035751
+      }
+    }
+  },
+  "nWnKpr97tLg": {
+    "UgzWsAkoUlJJAVo2_wp4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07468224316835403,
+        "NEU": 0.544870913028717,
+        "POS": 0.3804468512535095
+      }
+    },
+    "UgwxERzo5JlvO5vjwzB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.11207551509141922,
+        "NEU": 0.7242364883422852,
+        "POS": 0.1636880338191986
+      }
+    },
+    "UgynegLy2CVp5sh4ZG54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.016642382368445396,
+        "NEU": 0.46431469917297363,
+        "POS": 0.5190428495407104
+      }
+    },
+    "UgwhyqAXVJwE3fYAJkV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1820763498544693,
+        "NEU": 0.6424860954284668,
+        "POS": 0.17543761432170868
+      }
+    },
+    "UgyDz22ISZPVCUQaT6V4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04579862207174301,
+        "NEU": 0.6107905507087708,
+        "POS": 0.34341081976890564
+      }
+    }
+  },
+  "kQY2jLOI2k0": {},
+  "6ElzLjroaLc": {},
+  "nNKqW9bVZPs": {
+    "Ugy2iRMk-IcERiuSUxx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08669523894786835,
+        "NEU": 0.805025577545166,
+        "POS": 0.10827922821044922
+      }
+    },
+    "Ugyom_KnyFr7t3vv1dd4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.029920361936092377,
+        "NEU": 0.9052412509918213,
+        "POS": 0.06483840197324753
+      }
+    },
+    "UgxbdpRp7wGBOJZb37h4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03313419967889786,
+        "NEU": 0.4100581705570221,
+        "POS": 0.5568076372146606
+      }
+    }
+  },
+  "OXucMmbz3GA": {
+    "UgzjCScjjJAKS_iWLP94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.76311856508255,
+        "NEU": 0.14736363291740417,
+        "POS": 0.08951781690120697
+      }
+    },
+    "Ugyj2W4lHUNvSauwNpd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9713460803031921,
+        "NEU": 0.026015151292085648,
+        "POS": 0.002638714388012886
+      }
+    },
+    "UgyPhRCc-SRkSYhSM4R4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9685541987419128,
+        "NEU": 0.02630689926445484,
+        "POS": 0.005138975102454424
+      }
+    },
+    "UgyJ-h4WNdeARNWwNPV4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.978094756603241,
+        "NEU": 0.019057566300034523,
+        "POS": 0.0028476747684180737
+      }
+    },
+    "Ugym6K4baRmsMAhx1qt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.200156107544899,
+        "NEU": 0.7462226152420044,
+        "POS": 0.05362127348780632
+      }
+    },
+    "UgygEZG6871QMb3ovLp4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8795382976531982,
+        "NEU": 0.10732181370258331,
+        "POS": 0.013139946386218071
+      }
+    },
+    "UgygEZG6871QMb3ovLp4AaABAg.ANSNm1D4w8BANSQ7yYJSml": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.046144865453243256,
+        "NEU": 0.8775736689567566,
+        "POS": 0.07628148049116135
+      }
+    },
+    "UgxL0a95JHNXpxiIlFB4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.014026669785380363,
+        "NEU": 0.2803882956504822,
+        "POS": 0.7055850028991699
+      }
+    },
+    "UgwFiRiXOl4GcVpkC-14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.34891948103904724,
+        "NEU": 0.47965067625045776,
+        "POS": 0.1714298576116562
+      }
+    }
+  },
+  "wmAHPYFn3S4": {
+    "UgyRFrHsnMDePMd6Q214AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.020719649270176888,
+        "NEU": 0.6195935010910034,
+        "POS": 0.3596869111061096
+      }
+    },
+    "UgxFfkFaYHsKczJ-RxJ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.01549717877060175,
+        "NEU": 0.1179812103509903,
+        "POS": 0.8665215373039246
+      }
+    },
+    "Ugwrc1itaPoCfXYEq394AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.027921294793486595,
+        "NEU": 0.13766051828861237,
+        "POS": 0.8344181776046753
+      }
+    },
+    "Ugyjpp6E61_UT3HxHF14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.025023961439728737,
+        "NEU": 0.15356330573558807,
+        "POS": 0.8214127421379089
+      }
+    }
+  },
+  "CNRXPBJtgbA": {
+    "UgwjC-FXAyGokXtqDnp4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.012324185110628605,
+        "NEU": 0.39625826478004456,
+        "POS": 0.5914176106452942
+      }
+    },
+    "UgwA_UUcet8dOaoxqTt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.14399531483650208,
+        "NEU": 0.6271215081214905,
+        "POS": 0.22888322174549103
+      }
+    }
+  },
+  "GYpkAKvDWAw": {
+    "UgzkyYlTgtMZ4uz2Yj14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.015191563405096531,
+        "NEU": 0.07850019633769989,
+        "POS": 0.9063082337379456
+      }
+    },
+    "Ugz7VhA8FpkgVo8Nipl4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.009099976159632206,
+        "NEU": 0.045592062175273895,
+        "POS": 0.9453079700469971
+      }
+    },
+    "UgztihxWQcu-8e9ofut4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06176697462797165,
+        "NEU": 0.5551576614379883,
+        "POS": 0.3830753266811371
+      }
+    }
+  },
+  "wnMmp5hDTEE": {
+    "UgzF2xv0r77fGe0hr-R4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.007298541255295277,
+        "NEU": 0.08874335139989853,
+        "POS": 0.9039580821990967
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo-t5QJhI5": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.05708034709095955,
+        "NEU": 0.8650187849998474,
+        "POS": 0.07790085673332214
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo-xIcODtx": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04782441258430481,
+        "NEU": 0.8325024843215942,
+        "POS": 0.11967305839061737
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo-yzqkKwn": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9290218353271484,
+        "NEU": 0.06630018353462219,
+        "POS": 0.004678048193454742
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo002MSRDb": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.024071812629699707,
+        "NEU": 0.36011508107185364,
+        "POS": 0.6158130764961243
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo036NZPZg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005707558710128069,
+        "NEU": 0.036045268177986145,
+        "POS": 0.958247184753418
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo05dZMhi4": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.05062088742852211,
+        "NEU": 0.45357590913772583,
+        "POS": 0.4958031177520752
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo07tbt0VQ": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.027560919523239136,
+        "NEU": 0.3113331198692322,
+        "POS": 0.6611059308052063
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo0A7cYeXN": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.0179445743560791,
+        "NEU": 0.6927372813224792,
+        "POS": 0.28931811451911926
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo0D5NuyNi": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.0691273882985115,
+        "NEU": 0.6936228275299072,
+        "POS": 0.23724974691867828
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo0FgLQfZK": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.030721310526132584,
+        "NEU": 0.5169033408164978,
+        "POS": 0.4523753523826599
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo0I0pez5h": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.006317173130810261,
+        "NEU": 0.13043752312660217,
+        "POS": 0.8632453083992004
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo0KoTt3ct": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008474158123135567,
+        "NEU": 0.09925132244825363,
+        "POS": 0.8922744989395142
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo0PRHGaJR": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0039564473554492,
+        "NEU": 0.031280871480703354,
+        "POS": 0.9647627472877502
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo0RUoyaKy": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0029976204968988895,
+        "NEU": 0.024145837873220444,
+        "POS": 0.9728565216064453
+      }
+    },
+    "UgzF2xv0r77fGe0hr-R4AaABAg.ANo-qEJJM6DANo0Uozp2xa": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.045761220157146454,
+        "NEU": 0.3971622586250305,
+        "POS": 0.5570765137672424
+      }
+    },
+    "Ugzjso0rjh-eAe7EEK54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008074668236076832,
+        "NEU": 0.057702552527189255,
+        "POS": 0.9342228174209595
+      }
+    },
+    "UgwHRTQhWNf4q2Wf1md4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06212186440825462,
+        "NEU": 0.6104614734649658,
+        "POS": 0.32741665840148926
+      }
+    },
+    "UgwWO4u7vau9V2fWUtV4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5066904425621033,
+        "NEU": 0.42256081104278564,
+        "POS": 0.07074881345033646
+      }
+    },
+    "UgwWO4u7vau9V2fWUtV4AaABAg.ANmff-WHFUqANmk25yslSF": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.21017508208751678,
+        "NEU": 0.7343977689743042,
+        "POS": 0.05542716011404991
+      }
+    },
+    "UgwWO4u7vau9V2fWUtV4AaABAg.ANmff-WHFUqANmkU_FmWLg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9117921590805054,
+        "NEU": 0.08362019807100296,
+        "POS": 0.004587599541991949
+      }
+    },
+    "UgwFIFTBTnG9uFLr_JF4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8461735844612122,
+        "NEU": 0.14002494513988495,
+        "POS": 0.013801466673612595
+      }
+    },
+    "UgwFIFTBTnG9uFLr_JF4AaABAg.ANmfZ_-rp0kANni92C6c_b": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.0892295092344284,
+        "NEU": 0.892717719078064,
+        "POS": 0.018052682280540466
+      }
+    },
+    "Ugzp-wh63qy4ZfTOakZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.25234660506248474,
+        "NEU": 0.7307690978050232,
+        "POS": 0.016884393990039825
+      }
+    },
+    "UgybxI-hvrCx8PBlcA54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.016998331993818283,
+        "NEU": 0.14009588956832886,
+        "POS": 0.8429057598114014
+      }
+    },
+    "UgyNHbKqSN4CN1vEVwZ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0036777867935597897,
+        "NEU": 0.022084901109337807,
+        "POS": 0.974237322807312
+      }
+    },
+    "UgwBtgmAuvSLMIRqUkF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1735060065984726,
+        "NEU": 0.7932011485099792,
+        "POS": 0.03329279273748398
+      }
+    },
+    "Ugz8YgVEz12rx5XRCZV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.05862275883555412,
+        "NEU": 0.6895205974578857,
+        "POS": 0.2518566846847534
+      }
+    },
+    "Ugyz5V7bbAejafY0pBB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.11445051431655884,
+        "NEU": 0.6470481157302856,
+        "POS": 0.2385014146566391
+      }
+    }
+  },
+  "dmQxNBWFtoQ": {
+    "UgyjNo7luGY9XUbIUXR4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.003263714723289013,
+        "NEU": 0.05031415820121765,
+        "POS": 0.9464221596717834
+      }
+    },
+    "UgzKuXrzKWAD1YxggFV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04201863706111908,
+        "NEU": 0.9327138066291809,
+        "POS": 0.025267476215958595
+      }
+    }
+  },
+  "KATh63QnSf4": {
+    "UgzrlsO5NiFzGZfgg4p4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9040979743003845,
+        "NEU": 0.09210649877786636,
+        "POS": 0.003795512719079852
+      }
+    },
+    "UgwV-an_5gd4DsKFAeV4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004394779447466135,
+        "NEU": 0.1246459111571312,
+        "POS": 0.8709592819213867
+      }
+    },
+    "UgyEEGkQuRKBNA4gayF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.052700553089380264,
+        "NEU": 0.5055282711982727,
+        "POS": 0.44177117943763733
+      }
+    }
+  },
+  "tuyZk6JRo0U": {
+    "UgynbAkTkBc65mjWCBl4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04161010682582855,
+        "NEU": 0.9148014783859253,
+        "POS": 0.04358842968940735
+      }
+    },
+    "Ugw5oHdMEZVKWCCh9UF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04194369912147522,
+        "NEU": 0.9226400256156921,
+        "POS": 0.03541622310876846
+      }
+    },
+    "UgxLFR7EiwdixNl2cfN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.024315975606441498,
+        "NEU": 0.9282943606376648,
+        "POS": 0.047389667481184006
+      }
+    },
+    "UgxLFR7EiwdixNl2cfN4AaABAg.AO-Oe3OY7tCAO-Pzjc_d1C": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.054465144872665405,
+        "NEU": 0.8250630497932434,
+        "POS": 0.12047182768583298
+      }
+    },
+    "UgxLFR7EiwdixNl2cfN4AaABAg.AO-Oe3OY7tCAO-R1I-5TJy": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.009950704872608185,
+        "NEU": 0.4567588269710541,
+        "POS": 0.5332905054092407
+      }
+    },
+    "UgwYBugRicx7R0hee5R4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.12229113280773163,
+        "NEU": 0.8540793061256409,
+        "POS": 0.023629531264305115
+      }
+    },
+    "UgwYBugRicx7R0hee5R4AaABAg.AO-J9HAHu5EAO-O_pf1zgS": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1450957953929901,
+        "NEU": 0.7674053311347961,
+        "POS": 0.08749894052743912
+      }
+    },
+    "UgwYBugRicx7R0hee5R4AaABAg.AO-J9HAHu5EAO-P30iW3tv": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.11151199787855148,
+        "NEU": 0.8691309690475464,
+        "POS": 0.019357096403837204
+      }
+    },
+    "UgwyeqqgICULvZbGusJ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.02011776901781559,
+        "NEU": 0.21658852696418762,
+        "POS": 0.7632937431335449
+      }
+    },
+    "UgxUjrgTtq9TirEL81F4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.13361045718193054,
+        "NEU": 0.689054548740387,
+        "POS": 0.17733502388000488
+      }
+    },
+    "UgxUjrgTtq9TirEL81F4AaABAg.AO-2Nyxn-wrAO-g-HqIhkr": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.12420869618654251,
+        "NEU": 0.8299949765205383,
+        "POS": 0.04579627886414528
+      }
+    }
+  },
+  "ifcWJgnWZuE": {
+    "Ugzrtp3sdzJV8Qb_2OJ4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.004523082636296749,
+        "NEU": 0.0495254248380661,
+        "POS": 0.945951521396637
+      }
+    },
+    "UgwUtZLHyu--fPBwb4R4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03692382946610451,
+        "NEU": 0.20019732415676117,
+        "POS": 0.7628788352012634
+      }
+    }
+  },
+  "OxSerHAtaAk": {},
+  "0Gn74M_RI4A": {
+    "UgzUc-v3j16JMI79XNZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.021316973492503166,
+        "NEU": 0.745895504951477,
+        "POS": 0.23278751969337463
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESF_hxC-m": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.02303207851946354,
+        "NEU": 0.47719478607177734,
+        "POS": 0.4997731149196625
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESGoUa-0k": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1573931723833084,
+        "NEU": 0.6564303636550903,
+        "POS": 0.18617643415927887
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESOoUu352": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.003359302645549178,
+        "NEU": 0.02604391612112522,
+        "POS": 0.9705967903137207
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESS2J9jXM": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.05070480704307556,
+        "NEU": 0.9029853940010071,
+        "POS": 0.04630972072482109
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESZBR0mnV": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005984300281852484,
+        "NEU": 0.025302976369857788,
+        "POS": 0.9687126874923706
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOES_0eZibb": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008946990594267845,
+        "NEU": 0.39420002698898315,
+        "POS": 0.5968530178070068
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESceq9tse": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07302345335483551,
+        "NEU": 0.852494478225708,
+        "POS": 0.07448207587003708
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESiS6ytUZ": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.050728313624858856,
+        "NEU": 0.8460365533828735,
+        "POS": 0.10323508828878403
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESkUfMzY-": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08204173296689987,
+        "NEU": 0.8495671153068542,
+        "POS": 0.06839114427566528
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESmxgckeB": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.05297430604696274,
+        "NEU": 0.7782965898513794,
+        "POS": 0.16872909665107727
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESpV41Pgx": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.015593109652400017,
+        "NEU": 0.58298659324646,
+        "POS": 0.4014202952384949
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESq22Vkak": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.05217044800519943,
+        "NEU": 0.7301716804504395,
+        "POS": 0.21765786409378052
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOESsZLMv62": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.010032277554273605,
+        "NEU": 0.18682585656642914,
+        "POS": 0.8031418919563293
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOET0QRbkSA": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.49228301644325256,
+        "NEU": 0.4624820649623871,
+        "POS": 0.04523489251732826
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOET8m5lbsA": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0029017312917858362,
+        "NEU": 0.029664913192391396,
+        "POS": 0.9674333930015564
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOETDmYp3aG": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.0674663782119751,
+        "NEU": 0.8208823800086975,
+        "POS": 0.11165120452642441
+      }
+    },
+    "UgzUc-v3j16JMI79XNZ4AaABAg.AOERApavEC-AOETJfErrLS": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.02706199325621128,
+        "NEU": 0.9369341731071472,
+        "POS": 0.03600373491644859
+      }
+    }
+  },
+  "5m4_mAym5h8": {
+    "UgyrDXUFkNw2XDZSpOF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.14092713594436646,
+        "NEU": 0.6773898005485535,
+        "POS": 0.18168312311172485
+      }
+    },
+    "UgySqpMD9kc5KWAfN914AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2883196473121643,
+        "NEU": 0.5212761759757996,
+        "POS": 0.19040413200855255
+      }
+    },
+    "UgxdkIa5Pf7HOaTdJwt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.4653558135032654,
+        "NEU": 0.4827002286911011,
+        "POS": 0.05194394662976265
+      }
+    },
+    "Ugz007sQZiU-V4a8_lp4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.009537305682897568,
+        "NEU": 0.04159344732761383,
+        "POS": 0.9488692879676819
+      }
+    },
+    "Ugxp_b7IJy5nRt9nweV4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008455763570964336,
+        "NEU": 0.2073129266500473,
+        "POS": 0.7842313051223755
+      }
+    },
+    "Ugw5vOt9NBUe1r82kTV4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008409356698393822,
+        "NEU": 0.09003226459026337,
+        "POS": 0.9015583992004395
+      }
+    },
+    "UgzkF3jWphfywO3kxmx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9570914506912231,
+        "NEU": 0.032889846712350845,
+        "POS": 0.010018755681812763
+      }
+    },
+    "Ugyu4RGJg-qfRFXjaIh4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.014516912400722504,
+        "NEU": 0.1487904191017151,
+        "POS": 0.8366926908493042
+      }
+    },
+    "UgwEOPxbK42QMN-Icz14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.040854908525943756,
+        "NEU": 0.2215818613767624,
+        "POS": 0.7375632524490356
+      }
+    },
+    "UgwEOPxbK42QMN-Icz14AaABAg.AOIWJpDkYoOAOIiSYERvoo": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8397859930992126,
+        "NEU": 0.1275196522474289,
+        "POS": 0.03269435837864876
+      }
+    },
+    "UgwEOPxbK42QMN-Icz14AaABAg.AOIWJpDkYoOAOImgKr1fCS": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.23501324653625488,
+        "NEU": 0.5509332418441772,
+        "POS": 0.21405351161956787
+      }
+    }
+  },
+  "6MffOb5BVaY": {
+    "UgwdfBExKRaXulYQknV4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.013655362650752068,
+        "NEU": 0.3573446273803711,
+        "POS": 0.6290000081062317
+      }
+    },
+    "Ugy5N0aozfWbMdtyQvx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06128954142332077,
+        "NEU": 0.686934232711792,
+        "POS": 0.25177621841430664
+      }
+    },
+    "UgxNaIoyq6k5gT0LePN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.421038419008255,
+        "NEU": 0.5635508894920349,
+        "POS": 0.01541066449135542
+      }
+    },
+    "UgzmSkKgIFevrgBW_dR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.031814172863960266,
+        "NEU": 0.886059045791626,
+        "POS": 0.08212681114673615
+      }
+    }
+  },
+  "gGMrRRxtHIs": {
+    "UgwYaXsq7nYlWj-Z_sF4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.01564798876643181,
+        "NEU": 0.16915547847747803,
+        "POS": 0.8151965141296387
+      }
+    },
+    "UgysqYOSLnA0pzkvBhx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9185001850128174,
+        "NEU": 0.07858453691005707,
+        "POS": 0.0029153081122785807
+      }
+    },
+    "Ugzy9y2lns60W7jSugx4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.016428539529442787,
+        "NEU": 0.134235680103302,
+        "POS": 0.8493358492851257
+      }
+    },
+    "Ugy4t0Eq1Jd4PyL7y2F4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.008922211825847626,
+        "NEU": 0.06635178625583649,
+        "POS": 0.9247259497642517
+      }
+    },
+    "Ugx5AZuYXLOUamoyHJZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.16885046660900116,
+        "NEU": 0.4961085319519043,
+        "POS": 0.3350408971309662
+      }
+    },
+    "UgxCAo50Ea7Pu6MJA154AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0159115232527256,
+        "NEU": 0.24546097218990326,
+        "POS": 0.7386274933815002
+      }
+    }
+  },
+  "3yr4eTEijBk": {
+    "UgwvpCzUZweK1I9DuHl4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.09728577733039856,
+        "NEU": 0.8627870678901672,
+        "POS": 0.03992718085646629
+      }
+    },
+    "UgwvpCzUZweK1I9DuHl4AaABAg.AOWH-C3IxY5AOWHMTPdWWL": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.016114959493279457,
+        "NEU": 0.50205397605896,
+        "POS": 0.4818311035633087
+      }
+    }
+  },
+  "ldP4l3mW3uI": {
+    "UgyLfbOpsfYjcIFkTw14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3925892114639282,
+        "NEU": 0.5154489278793335,
+        "POS": 0.09196188300848007
+      }
+    },
+    "UgwGfKMN20blwNjFyaR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07038670033216476,
+        "NEU": 0.8962773084640503,
+        "POS": 0.033336080610752106
+      }
+    },
+    "Ugzn0RO2vWe1Otsdzyd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9011837840080261,
+        "NEU": 0.09166472405195236,
+        "POS": 0.007151516620069742
+      }
+    },
+    "UgyEbPUlJ2kX4FxQ2xN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9594162702560425,
+        "NEU": 0.038080986589193344,
+        "POS": 0.0025028414092957973
+      }
+    },
+    "UgyEbPUlJ2kX4FxQ2xN4AaABAg.AOYNOis3MWKAOYPztIoNAw": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.649105429649353,
+        "NEU": 0.3273191452026367,
+        "POS": 0.023575440049171448
+      }
+    },
+    "Ugw74HkkUwQMoLjx1Ul4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.003233297262340784,
+        "NEU": 0.030275730416178703,
+        "POS": 0.9664909839630127
+      }
+    }
+  },
+  "QK1NIt2Xt0Q": {
+    "UgwldzY914dNgF3mDi14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9708050489425659,
+        "NEU": 0.02657298371195793,
+        "POS": 0.00262192590162158
+      }
+    },
+    "UgyY6I4Qrh2-aboG5294AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.24249297380447388,
+        "NEU": 0.5345579385757446,
+        "POS": 0.2229490876197815
+      }
+    },
+    "UgyQhuG_zztv4b0XyK94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.42016682028770447,
+        "NEU": 0.5511635541915894,
+        "POS": 0.0286696907132864
+      }
+    },
+    "UgxD_wxaOu5exHWNRcF4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.09350333362817764,
+        "NEU": 0.14486756920814514,
+        "POS": 0.7616291046142578
+      }
+    },
+    "UgycALMr1KtPHfCBmhB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3376927971839905,
+        "NEU": 0.5139912962913513,
+        "POS": 0.1483159214258194
+      }
+    },
+    "UgwiCfMNgc_oZwLH8Z54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08824487775564194,
+        "NEU": 0.6520640850067139,
+        "POS": 0.2596910297870636
+      }
+    },
+    "Ugz9gQJV4JzH-qOGAYl4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3884529769420624,
+        "NEU": 0.5493391156196594,
+        "POS": 0.06220793351531029
+      }
+    },
+    "UgzsWoWn30VHIvazz7V4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6624114513397217,
+        "NEU": 0.30105558037757874,
+        "POS": 0.036532945930957794
+      }
+    },
+    "Ugw0tO3bMpW2hD82_At4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.09243298321962357,
+        "NEU": 0.6089076995849609,
+        "POS": 0.2986593246459961
+      }
+    },
+    "UgynSXSOdyb3yNXwdOp4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3374989628791809,
+        "NEU": 0.5124848484992981,
+        "POS": 0.1500162035226822
+      }
+    }
+  },
+  "yCRatrO9cXY": {
+    "UgyLznPcA5ioCI2cIu14AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.015537557192146778,
+        "NEU": 0.04328106343746185,
+        "POS": 0.9411813020706177
+      }
+    },
+    "UgzCa5Nm0XIVzbvr7YN4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.002131779445335269,
+        "NEU": 0.021479777991771698,
+        "POS": 0.9763884544372559
+      }
+    },
+    "UgyxV4zQOeGyEX11FuB4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0026180450804531574,
+        "NEU": 0.02602650597691536,
+        "POS": 0.9713554382324219
+      }
+    },
+    "UgzIPBzil_il5ATWc0d4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.32655152678489685,
+        "NEU": 0.4628950357437134,
+        "POS": 0.21055345237255096
+      }
+    },
+    "UgwL1_KzXi5gBu332oV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2544855773448944,
+        "NEU": 0.6051297187805176,
+        "POS": 0.1403847187757492
+      }
+    },
+    "UgzhqIdeMhyJbKX-cx14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9592890739440918,
+        "NEU": 0.03404843062162399,
+        "POS": 0.006662463303655386
+      }
+    },
+    "UgzWemyAQnb_Lly9Eq94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.32063764333724976,
+        "NEU": 0.5220525860786438,
+        "POS": 0.15730971097946167
+      }
+    },
+    "UgwaXtADd3OyxG9hwll4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7356874346733093,
+        "NEU": 0.24253709614276886,
+        "POS": 0.021775517612695694
+      }
+    }
+  },
+  "uwvBgp3q7mE": {
+    "UgzX5siGXb6s6A8bJaZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.14338654279708862,
+        "NEU": 0.5583987832069397,
+        "POS": 0.29821476340293884
+      }
+    }
+  },
+  "9y2gizFhtpA": {
+    "UgzNEWVoQX7zGl23BL54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.20691217482089996,
+        "NEU": 0.47710278630256653,
+        "POS": 0.3159851133823395
+      }
+    },
+    "UgymkowhU6I_bZJkpxN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9833970665931702,
+        "NEU": 0.012775082141160965,
+        "POS": 0.0038278803694993258
+      }
+    }
+  },
+  "jveN77kv6rE": {
+    "UgzMSfH-3auQ9jpk9i54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3739871382713318,
+        "NEU": 0.5608647465705872,
+        "POS": 0.06514813750982285
+      }
+    },
+    "UgwQ4jAqtJW8MdnIVdR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.018722083419561386,
+        "NEU": 0.8262810707092285,
+        "POS": 0.15499688684940338
+      }
+    },
+    "UgwfUoOFvn3qzfxCZAh4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0030674836598336697,
+        "NEU": 0.019831014797091484,
+        "POS": 0.9771015048027039
+      }
+    },
+    "Ugzu-F5lYLLTSrmmxRt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.24149693548679352,
+        "NEU": 0.6325859427452087,
+        "POS": 0.12591716647148132
+      }
+    },
+    "UgwW35TCfDHhkTl-unB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2542453110218048,
+        "NEU": 0.6015421152114868,
+        "POS": 0.14421267807483673
+      }
+    },
+    "UgwW35TCfDHhkTl-unB4AaABAg.AOcnRSwGvPRAOcvmTguEA4": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6374513506889343,
+        "NEU": 0.3051791191101074,
+        "POS": 0.057369526475667953
+      }
+    },
+    "UgwW35TCfDHhkTl-unB4AaABAg.AOcnRSwGvPRAOdhru00OW-": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06318889558315277,
+        "NEU": 0.7828830480575562,
+        "POS": 0.15392810106277466
+      }
+    },
+    "UgzR-qbCsN_5h9mvJ_Z4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.31280797719955444,
+        "NEU": 0.6642962098121643,
+        "POS": 0.022895846515893936
+      }
+    }
+  },
+  "gRxVvfVtzhE": {
+    "UgzIUpCKnbSfLLjfBwR4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.003323879325762391,
+        "NEU": 0.03374529629945755,
+        "POS": 0.9629307985305786
+      }
+    }
+  },
+  "FN4wmcFnvGY": {},
+  "iW4tQQ4Nyd8": {
+    "Ugy2JoBSyfq9mAFXa3B4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.804434597492218,
+        "NEU": 0.1835593432188034,
+        "POS": 0.012005974538624287
+      }
+    },
+    "UgzKkrAt26if_Et4f_54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005062486976385117,
+        "NEU": 0.3434695601463318,
+        "POS": 0.6514679789543152
+      }
+    },
+    "UgyYBtuMM6I2eulqdpp4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.13669803738594055,
+        "NEU": 0.3892870545387268,
+        "POS": 0.47401493787765503
+      }
+    },
+    "Ugx9hPL2NB6Rg-Ianw94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.023784484714269638,
+        "NEU": 0.8925419449806213,
+        "POS": 0.08367357403039932
+      }
+    }
+  },
+  "rCz41IEA7gE": {
+    "UgwaXihL9wfVhgBYaZ94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2379419207572937,
+        "NEU": 0.7159386277198792,
+        "POS": 0.04611946642398834
+      }
+    },
+    "UgzH6qnPxDK9YfwTEmZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3853893578052521,
+        "NEU": 0.5781785249710083,
+        "POS": 0.03643208369612694
+      }
+    },
+    "Ugyrcel0P6oNlqNfiv54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3390202820301056,
+        "NEU": 0.6148428916931152,
+        "POS": 0.04613681510090828
+      }
+    }
+  },
+  "K7hgxCvDhME": {
+    "Ugx_Z3A2vczb2jwH2a14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9010670185089111,
+        "NEU": 0.08770705759525299,
+        "POS": 0.01122584193944931
+      }
+    },
+    "Ugx8G2BdHKtT_QwidmZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7332280874252319,
+        "NEU": 0.23547257483005524,
+        "POS": 0.03129936009645462
+      }
+    },
+    "Ugz7mw4wF5cXFJIBgGx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.4474738836288452,
+        "NEU": 0.5196079611778259,
+        "POS": 0.03291807323694229
+      }
+    },
+    "UgxdjjFGwnAgzeBE6gd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8242223858833313,
+        "NEU": 0.15831506252288818,
+        "POS": 0.017462605610489845
+      }
+    },
+    "UgxdjjFGwnAgzeBE6gd4AaABAg.AOfSxVh3xw-AOfbm-i_obo": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9135925769805908,
+        "NEU": 0.07960624992847443,
+        "POS": 0.00680117029696703
+      }
+    }
+  },
+  "ESsbnov2y5Q": {},
+  "uulfw8T3CCQ": {
+    "Ugyn5XClsWIyNsHu7_Z4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06042852997779846,
+        "NEU": 0.9008256196975708,
+        "POS": 0.038745950907468796
+      }
+    },
+    "UgwXLnMQalqEjEX9i-d4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.034497883170843124,
+        "NEU": 0.9217591881752014,
+        "POS": 0.04374294728040695
+      }
+    },
+    "UgzGxexdvnegRl-m5gN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.16656611859798431,
+        "NEU": 0.8063743114471436,
+        "POS": 0.027059555053710938
+      }
+    },
+    "UgyynTSZN4mxTUpVlq94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1735183745622635,
+        "NEU": 0.7915078401565552,
+        "POS": 0.03497380390763283
+      }
+    },
+    "UgwrIsmzjsrZBfb0cPh4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.19196674227714539,
+        "NEU": 0.7815152406692505,
+        "POS": 0.026518026366829872
+      }
+    },
+    "UgzF3nonV1ZDFc75mDh4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.010161313228309155,
+        "NEU": 0.6337598562240601,
+        "POS": 0.35607877373695374
+      }
+    },
+    "UgyF1ss6k0F3wZmJC_R4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.40954214334487915,
+        "NEU": 0.581760585308075,
+        "POS": 0.008697262965142727
+      }
+    },
+    "UgzRsZNDhfIc1pYHj794AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.192874014377594,
+        "NEU": 0.7839749455451965,
+        "POS": 0.023151038214564323
+      }
+    },
+    "UgwHUGaOpd2hVPOd6rt4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.03662925958633423,
+        "NEU": 0.7870397567749023,
+        "POS": 0.1763310432434082
+      }
+    },
+    "UgyoNtgBFWHdaazBwLp4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.05576898902654648,
+        "NEU": 0.9200708270072937,
+        "POS": 0.024160193279385567
+      }
+    },
+    "Ugyc_7MB6unen-2uOQJ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.909481406211853,
+        "NEU": 0.08621275424957275,
+        "POS": 0.004305899143218994
+      }
+    },
+    "UgyG8VavxvuiR-DW2fp4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9640160202980042,
+        "NEU": 0.03273896127939224,
+        "POS": 0.0032449611462652683
+      }
+    },
+    "UgzUZ8krfQc8HVPXcdZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.0235464945435524,
+        "NEU": 0.6521826386451721,
+        "POS": 0.3242708146572113
+      }
+    },
+    "UgwpvGgvSkWG0hCkxWp4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.009876263327896595,
+        "NEU": 0.10592014342546463,
+        "POS": 0.8842035531997681
+      }
+    },
+    "UgxBf_h4tebLlAzA6-R4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.03882993012666702,
+        "NEU": 0.8703337907791138,
+        "POS": 0.09083622694015503
+      }
+    },
+    "UgxBf_h4tebLlAzA6-R4AaABAg.AOpIjo5ynRCAOpVqRqhLg9": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7861049771308899,
+        "NEU": 0.1707506775856018,
+        "POS": 0.04314436390995979
+      }
+    },
+    "Ugxd074J9hShpRlIfSV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.036835066974163055,
+        "NEU": 0.8969098925590515,
+        "POS": 0.06625501811504364
+      }
+    }
+  },
+  "AGGWEHkywW0": {
+    "Ugziz9zAfcHhuh4Y9wh4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1266268640756607,
+        "NEU": 0.8342027068138123,
+        "POS": 0.039170511066913605
+      }
+    },
+    "Ugziz9zAfcHhuh4Y9wh4AaABAg.AOsVqmK6snDAOsW1MhBm3c": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.13954788446426392,
+        "NEU": 0.7206436395645142,
+        "POS": 0.1398085653781891
+      }
+    },
+    "UgzRUP-rRPBDMk9okPt4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.47753193974494934,
+        "NEU": 0.4556896388530731,
+        "POS": 0.06677843630313873
+      }
+    },
+    "UgzRUP-rRPBDMk9okPt4AaABAg.AOsU7YFz9uaAOsVfF_iU0L": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.49324774742126465,
+        "NEU": 0.41204848885536194,
+        "POS": 0.09470374137163162
+      }
+    },
+    "UgzRUP-rRPBDMk9okPt4AaABAg.AOsU7YFz9uaAOsWa3fmnw1": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6026038527488708,
+        "NEU": 0.35462093353271484,
+        "POS": 0.04277528077363968
+      }
+    },
+    "Ugzamc6RxRLYdSWYQq94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5742366909980774,
+        "NEU": 0.4052797853946686,
+        "POS": 0.020483560860157013
+      }
+    },
+    "Ugz9cogeEJrvgYmGFBp4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.026680421084165573,
+        "NEU": 0.9240762591362,
+        "POS": 0.04924341291189194
+      }
+    }
+  },
+  "2PecRYAnL0Y": {
+    "UgzKKD53CCx5dVelO5N4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.05597016587853432,
+        "NEU": 0.09048044681549072,
+        "POS": 0.8535493612289429
+      }
+    }
+  },
+  "41wXsgKN-U4": {
+    "UgwSeeBShnmKc15L05x4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9394044280052185,
+        "NEU": 0.05508849769830704,
+        "POS": 0.00550716882571578
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6447575688362122,
+        "NEU": 0.299417108297348,
+        "POS": 0.05582527816295624
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOsqiGubprO": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9076914191246033,
+        "NEU": 0.08352731913328171,
+        "POS": 0.008781296201050282
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtKE_t2-oR": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.011775203980505466,
+        "NEU": 0.3462715148925781,
+        "POS": 0.6419532299041748
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtKORKTJps": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.01622803695499897,
+        "NEU": 0.3448804020881653,
+        "POS": 0.6388915777206421
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtKSQTpd5Y": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005384163465350866,
+        "NEU": 0.08994575589895248,
+        "POS": 0.904670000076294
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtKmxGT1Dl": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06267891079187393,
+        "NEU": 0.8403925895690918,
+        "POS": 0.09692846238613129
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtKtwIMxky": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.019788436591625214,
+        "NEU": 0.34620794653892517,
+        "POS": 0.6340035796165466
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtL50Ty1mJ": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.17206530272960663,
+        "NEU": 0.4553803503513336,
+        "POS": 0.37255433201789856
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtLAIR9ZBY": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0035542238038033247,
+        "NEU": 0.06253453344106674,
+        "POS": 0.9339112043380737
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtLIerfcxy": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005868505220860243,
+        "NEU": 0.12006185948848724,
+        "POS": 0.8740696310997009
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtLOM4x6-s": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.007118030916899443,
+        "NEU": 0.08989015221595764,
+        "POS": 0.9029918313026428
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtLU91uTgC": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07536875456571579,
+        "NEU": 0.834731936454773,
+        "POS": 0.0898992195725441
+      }
+    },
+    "UgwRTxUWhWlh9m-XUY54AaABAg.AOsJOcLFmc0AOtLY8u92C2": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.015489796176552773,
+        "NEU": 0.34959301352500916,
+        "POS": 0.6349171996116638
+      }
+    },
+    "UgySMdUxWPlvkchRWWJ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.13156720995903015,
+        "NEU": 0.8407276272773743,
+        "POS": 0.027705131098628044
+      }
+    },
+    "UgxjuDRdJJoo0HSqXFd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9836613535881042,
+        "NEU": 0.013682485558092594,
+        "POS": 0.002656195778399706
+      }
+    },
+    "Ugz-S7rErWU9mzpk1rZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06660549342632294,
+        "NEU": 0.715938925743103,
+        "POS": 0.21745556592941284
+      }
+    },
+    "UgwkwNY8nWY4E7qBJKZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.14399531483650208,
+        "NEU": 0.6271215081214905,
+        "POS": 0.22888322174549103
+      }
+    },
+    "UgwksE4vdfr3t_NPHvF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04012191295623779,
+        "NEU": 0.8942270278930664,
+        "POS": 0.06565096974372864
+      }
+    }
+  },
+  "0XVAjau2tOY": {
+    "UgwZZrAoX8bbzNt0QN14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8804107904434204,
+        "NEU": 0.10424923896789551,
+        "POS": 0.015339963138103485
+      }
+    },
+    "Ugx0PPpc6od32btkwp54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.44931742548942566,
+        "NEU": 0.5157210230827332,
+        "POS": 0.034961480647325516
+      }
+    },
+    "Ugx0PPpc6od32btkwp54AaABAg.AOsrJMcYqFiAOtMnjhKWDH": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.1335645318031311,
+        "NEU": 0.7663275003433228,
+        "POS": 0.10010794550180435
+      }
+    },
+    "Ugz9pudRGIa0XVm68c54AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7745670080184937,
+        "NEU": 0.21318091452121735,
+        "POS": 0.012252134270966053
+      }
+    },
+    "Ugz9pudRGIa0XVm68c54AaABAg.AOslWuvhvfUAOsv44pywz_": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.23510511219501495,
+        "NEU": 0.6783767342567444,
+        "POS": 0.08651810884475708
+      }
+    },
+    "UgxaCe-s29zNVs8kVx14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.14976614713668823,
+        "NEU": 0.8171426057815552,
+        "POS": 0.03309124335646629
+      }
+    },
+    "Ugzr71Nhs3GplLspHBZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8285203576087952,
+        "NEU": 0.16327014565467834,
+        "POS": 0.00820955540984869
+      }
+    },
+    "UgyaBsJCAwr7aHVgHlV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06007158383727074,
+        "NEU": 0.9088863134384155,
+        "POS": 0.031042182818055153
+      }
+    },
+    "UgzHlaaAQfdttUXivcZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6584789752960205,
+        "NEU": 0.3350915014743805,
+        "POS": 0.006429535802453756
+      }
+    },
+    "UgwR884NH1-lFzhUOut4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.24710632860660553,
+        "NEU": 0.7196305394172668,
+        "POS": 0.033263083547353745
+      }
+    },
+    "Ugzo3sBoJalZ3LE05zB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.41313284635543823,
+        "NEU": 0.5261561870574951,
+        "POS": 0.060710884630680084
+      }
+    },
+    "Ugz_sjx9sOyt2SWoIGZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9569714665412903,
+        "NEU": 0.038942743092775345,
+        "POS": 0.004085802473127842
+      }
+    },
+    "UgyWhrEzCBnM_zy7r2F4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.21087194979190826,
+        "NEU": 0.4759351909160614,
+        "POS": 0.31319287419319153
+      }
+    },
+    "UgzxFbvHMSmATcuTKx54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08021734654903412,
+        "NEU": 0.8814241290092468,
+        "POS": 0.038358546793460846
+      }
+    },
+    "UgxHxIaIVvtKVtWwBxp4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9514362812042236,
+        "NEU": 0.04005120322108269,
+        "POS": 0.008512525819242
+      }
+    },
+    "Ugzinv6U0n3m7_QmOux4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.03917892649769783,
+        "NEU": 0.3742891550064087,
+        "POS": 0.5865318775177002
+      }
+    }
+  },
+  "WoZm72HVGQs": {},
+  "DovmXU0HZPg": {
+    "UgxfGEt8bkXirE5xXPt4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0038539220113307238,
+        "NEU": 0.02971508540213108,
+        "POS": 0.9664309620857239
+      }
+    },
+    "UgzhTdYKZ2YvV_BEd2t4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8946470618247986,
+        "NEU": 0.09368542581796646,
+        "POS": 0.011667512357234955
+      }
+    },
+    "UgzhTdYKZ2YvV_BEd2t4AaABAg.AOx7U7-7VM6AOxAhV4mZbG": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9636600613594055,
+        "NEU": 0.0336277037858963,
+        "POS": 0.0027122278697788715
+      }
+    }
+  },
+  "6F_cj29EPlY": {
+    "UgyU6DyuHwiXEWnPBgd4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.08402169495820999,
+        "NEU": 0.7144784927368164,
+        "POS": 0.20149977505207062
+      }
+    },
+    "UgxdwsN81o0cFhbos_R4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7797878980636597,
+        "NEU": 0.18378852307796478,
+        "POS": 0.036423590034246445
+      }
+    }
+  },
+  "QNx3JBhE2MU": {
+    "UgwqbinMpGj1Ob5opWN4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.10381659865379333,
+        "NEU": 0.40506014227867126,
+        "POS": 0.4911231994628906
+      }
+    },
+    "UgyP5EJcrweDp9lCkiN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.450772762298584,
+        "NEU": 0.4692334830760956,
+        "POS": 0.07999379187822342
+      }
+    }
+  },
+  "XGZoh-R2YMI": {
+    "UgyqIumJh7iQ38QVBXl4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.17305123805999756,
+        "NEU": 0.678198516368866,
+        "POS": 0.14875027537345886
+      }
+    },
+    "UgzvjC4bTE_7snMCd214AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.958034336566925,
+        "NEU": 0.03763845935463905,
+        "POS": 0.004327136091887951
+      }
+    },
+    "Ugyo1uOTBkpw9y8LSDx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.17206530272960663,
+        "NEU": 0.4553803503513336,
+        "POS": 0.37255433201789856
+      }
+    },
+    "Ugy88bCzNm2OqaLGYxx4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.311787486076355,
+        "NEU": 0.645463764667511,
+        "POS": 0.042748719453811646
+      }
+    }
+  },
+  "vksmAtERfoY": {
+    "UgzqaxDkotttjXYiJyx4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.003604627912864089,
+        "NEU": 0.02768038585782051,
+        "POS": 0.9687150120735168
+      }
+    }
+  },
+  "FfYyRS47ghI": {
+    "UgydsOV3AJgwCcvlNMl4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.06080255284905434,
+        "NEU": 0.2074025422334671,
+        "POS": 0.7317948937416077
+      }
+    }
+  },
+  "8buVggRYZmU": {
+    "UgzQeuZlQcxc6iQv4l94AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.021226245909929276,
+        "NEU": 0.118250273168087,
+        "POS": 0.8605234622955322
+      }
+    },
+    "UgzaIR8DKPmP-Sm69Fl4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0035518365912139416,
+        "NEU": 0.06727908551692963,
+        "POS": 0.9291690587997437
+      }
+    }
+  },
+  "9tZz39lFVtk": {
+    "Ugx5qLjNX2s6mShPmV94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.41713592410087585,
+        "NEU": 0.49864381551742554,
+        "POS": 0.08422022312879562
+      }
+    },
+    "UgyPGVyLn8-nz4BXGGt4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.537467896938324,
+        "NEU": 0.40011557936668396,
+        "POS": 0.06241653859615326
+      }
+    },
+    "UgzT4dM_iJEv8p8qEIV4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2577662467956543,
+        "NEU": 0.6673693656921387,
+        "POS": 0.07486439496278763
+      }
+    },
+    "UgylN1RNsQ4eDi3K8sN4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.016781697049736977,
+        "NEU": 0.44241398572921753,
+        "POS": 0.540804386138916
+      }
+    }
+  },
+  "Nb7wVMmMjgk": {
+    "UgwUmMdU-Yl5ZnavPF94AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.009625238366425037,
+        "NEU": 0.04986928030848503,
+        "POS": 0.9405054450035095
+      }
+    }
+  },
+  "40Y5cKvoGYo": {},
+  "zJPP1_GZePg": {
+    "UgwZcr5RyR5afffsFkF4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9097195863723755,
+        "NEU": 0.08166539669036865,
+        "POS": 0.008615030907094479
+      }
+    },
+    "UgzYe03_Drex41RaP4t4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8846291303634644,
+        "NEU": 0.09985266625881195,
+        "POS": 0.015518130734562874
+      }
+    }
+  },
+  "21JLn_xm8Ro": {},
+  "JwcTrD1drtc": {},
+  "eNroQuNxYfA": {
+    "UgxxVuhDF8-OCYPLw-54AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2282838523387909,
+        "NEU": 0.7318276166915894,
+        "POS": 0.03988851606845856
+      }
+    },
+    "UgznT-CGtCiAesDFMrZ4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.4728212058544159,
+        "NEU": 0.5085042715072632,
+        "POS": 0.018674541264772415
+      }
+    }
+  },
+  "W16jCt8NcdI": {
+    "Ugy6ZbMEthSdyhoIeMF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3400799632072449,
+        "NEU": 0.5504816770553589,
+        "POS": 0.10943838208913803
+      }
+    },
+    "Ugx4kGbz4nohj56YvPZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9549923539161682,
+        "NEU": 0.04051661491394043,
+        "POS": 0.004491035360842943
+      }
+    },
+    "UgxpIC7xUTDOW5MgSH14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9592099785804749,
+        "NEU": 0.038964010775089264,
+        "POS": 0.00182598945684731
+      }
+    },
+    "Ugw94o2OHbuT_DDTScR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.24934172630310059,
+        "NEU": 0.566571831703186,
+        "POS": 0.18408642709255219
+      }
+    },
+    "Ugw94o2OHbuT_DDTScR4AaABAg.APEeqvlEI_pAPEoSoJvB2e": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6269369721412659,
+        "NEU": 0.3549652099609375,
+        "POS": 0.01809779554605484
+      }
+    },
+    "UgzVap_3KlJ99FUsw_h4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.012733571231365204,
+        "NEU": 0.04379820078611374,
+        "POS": 0.9434682130813599
+      }
+    },
+    "Ugz6T9N5ZAcosIAXzh54AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.005413507577031851,
+        "NEU": 0.08856576681137085,
+        "POS": 0.9060206413269043
+      }
+    },
+    "UgxivCwr2BTzeUeB_654AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6784372329711914,
+        "NEU": 0.31186941266059875,
+        "POS": 0.009693353436887264
+      }
+    }
+  },
+  "qbYbIX_xBpA": {},
+  "jlul1CxieSw": {
+    "UgyZqbiIkqRwEeOI61Z4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8936994671821594,
+        "NEU": 0.09809531271457672,
+        "POS": 0.00820526760071516
+      }
+    },
+    "UgzFN_yMcp_PBqSKK654AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9233056902885437,
+        "NEU": 0.07271158695220947,
+        "POS": 0.003982807509601116
+      }
+    },
+    "UgwnQBX15KSD0JeWmbN4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0022312174551188946,
+        "NEU": 0.014947192743420601,
+        "POS": 0.982821524143219
+      }
+    },
+    "UgwmW5U_oZ60g8o7jsx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7670313119888306,
+        "NEU": 0.21407708525657654,
+        "POS": 0.018891554325819016
+      }
+    },
+    "UgwmW5U_oZ60g8o7jsx4AaABAg.APNgr1EuZjRAPNgtSOxiHl": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06663327664136887,
+        "NEU": 0.7017788290977478,
+        "POS": 0.23158788681030273
+      }
+    },
+    "UgzwghpZj2jHjgJX1s14AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7926068305969238,
+        "NEU": 0.20044654607772827,
+        "POS": 0.006946590729057789
+      }
+    },
+    "UgxXyrdZDFuboDGGPrh4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9145383238792419,
+        "NEU": 0.07848809659481049,
+        "POS": 0.006973688490688801
+      }
+    },
+    "UgwFop8PGn9fgR4RtjB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.3306830823421478,
+        "NEU": 0.6250061988830566,
+        "POS": 0.04431077465415001
+      }
+    },
+    "UgzRi9XVXNCDEj8l-NN4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.17099305987358093,
+        "NEU": 0.8037493824958801,
+        "POS": 0.025257505476474762
+      }
+    },
+    "UgynceqqeXPPhCL28zl4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.033008936792612076,
+        "NEU": 0.23338739573955536,
+        "POS": 0.7336036562919617
+      }
+    },
+    "UgxHyriqlhstjXKbPkN4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9587095379829407,
+        "NEU": 0.038481466472148895,
+        "POS": 0.0028089135885238647
+      }
+    },
+    "UgzAE6PzrqfanSi5C-t4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5856817960739136,
+        "NEU": 0.36665788292884827,
+        "POS": 0.04766034334897995
+      }
+    },
+    "UgynZohVTOgXkvbBV4l4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9632635116577148,
+        "NEU": 0.03126703202724457,
+        "POS": 0.0054694898426532745
+      }
+    },
+    "Ugxh32acjBtpWH3HgKF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.13815879821777344,
+        "NEU": 0.7587816119194031,
+        "POS": 0.10305957496166229
+      }
+    },
+    "UgxJYRAoqy8a4HXkjUd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5136685967445374,
+        "NEU": 0.43337681889533997,
+        "POS": 0.0529545359313488
+      }
+    },
+    "UgxJYRAoqy8a4HXkjUd4AaABAg.APMw91Hb8FbAPMwhWkG46c": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.014526662416756153,
+        "NEU": 0.3227110207080841,
+        "POS": 0.6627623438835144
+      }
+    },
+    "UgwCgHZQBils5Cen7D94AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.053242526948451996,
+        "NEU": 0.5303182005882263,
+        "POS": 0.4164392948150635
+      }
+    },
+    "UgxUpti-icbE4tEjRIF4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9620988368988037,
+        "NEU": 0.033242397010326385,
+        "POS": 0.004658746067434549
+      }
+    },
+    "UgytxzMAl_07JoLg9cR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06651133298873901,
+        "NEU": 0.8222081065177917,
+        "POS": 0.11128053069114685
+      }
+    },
+    "UgzbCka-x-OlDLVwQtd4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9820932149887085,
+        "NEU": 0.016261393204331398,
+        "POS": 0.0016453859861940145
+      }
+    },
+    "UgzbCka-x-OlDLVwQtd4AaABAg.APMuwQnoM2uAPN4I_TbtOw": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9745509624481201,
+        "NEU": 0.022246316075325012,
+        "POS": 0.0032027284614741802
+      }
+    },
+    "UgzZHmXo_nw8EEaOTJ14AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.10283268988132477,
+        "NEU": 0.6761139631271362,
+        "POS": 0.221053346991539
+      }
+    },
+    "Ugy8X99MMvInY-kH8UB4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.36634454131126404,
+        "NEU": 0.30047255754470825,
+        "POS": 0.3331829011440277
+      }
+    },
+    "UgwnNe_TB57op812q7N4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.5710814595222473,
+        "NEU": 0.4131167232990265,
+        "POS": 0.015801843255758286
+      }
+    },
+    "UgxJX3gvx1AmF4wy_bF4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.16326139867305756,
+        "NEU": 0.802163302898407,
+        "POS": 0.034575384110212326
+      }
+    },
+    "UgxJX3gvx1AmF4wy_bF4AaABAg.APMo8MJHoToAPMpw2CpIIV": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.20999230444431305,
+        "NEU": 0.7263196706771851,
+        "POS": 0.0636880174279213
+      }
+    },
+    "UgzLUU1tpmAtAFedSyx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6426687240600586,
+        "NEU": 0.3398345708847046,
+        "POS": 0.01749672368168831
+      }
+    },
+    "UgzwvEzTY5vgn9Qei8V4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.28644973039627075,
+        "NEU": 0.6740002632141113,
+        "POS": 0.03954998403787613
+      }
+    },
+    "UgyEkGoQPSuslX1FXcB4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2824546694755554,
+        "NEU": 0.6564683318138123,
+        "POS": 0.06107693538069725
+      }
+    },
+    "UgyC9ub90ilDmoyUWIx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8992103338241577,
+        "NEU": 0.0980214849114418,
+        "POS": 0.0027681663632392883
+      }
+    },
+    "UgyC9ub90ilDmoyUWIx4AaABAg.APMm8C5L6wtAPMneNKN2od": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6458566784858704,
+        "NEU": 0.31515103578567505,
+        "POS": 0.03899228572845459
+      }
+    },
+    "UgxqjseSMbwLMmYMWNZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7849534749984741,
+        "NEU": 0.20810890197753906,
+        "POS": 0.006937559228390455
+      }
+    },
+    "UgyXbj4Mw5fS742ifBx4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9680491089820862,
+        "NEU": 0.02731414884328842,
+        "POS": 0.004636752884835005
+      }
+    },
+    "UgwZ_xX6m4F8lHM42m94AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.765059232711792,
+        "NEU": 0.2164488434791565,
+        "POS": 0.0184919610619545
+      }
+    },
+    "UgzOKHTR6bQulIx_O3t4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06603588163852692,
+        "NEU": 0.9014189839363098,
+        "POS": 0.03254512697458267
+      }
+    },
+    "UgwbNXLRL2O4gpzJsOF4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.7670044898986816,
+        "NEU": 0.14524780213832855,
+        "POS": 0.08774774521589279
+      }
+    },
+    "UgwbNXLRL2O4gpzJsOF4AaABAg.APMkIEfdg0dAPMo0wVI3Wf": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.23858806490898132,
+        "NEU": 0.7274341583251953,
+        "POS": 0.033977724611759186
+      }
+    },
+    "UgwbNXLRL2O4gpzJsOF4AaABAg.APMkIEfdg0dAPMolrwz-UA": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04097374528646469,
+        "NEU": 0.9111324548721313,
+        "POS": 0.04789377376437187
+      }
+    },
+    "UgwbNXLRL2O4gpzJsOF4AaABAg.APMkIEfdg0dAPMsKD5MOam": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.9134082198143005,
+        "NEU": 0.08132965862751007,
+        "POS": 0.0052620661444962025
+      }
+    },
+    "UgwbNXLRL2O4gpzJsOF4AaABAg.APMkIEfdg0dAPMv0UOxF2p": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6019658446311951,
+        "NEU": 0.24318809807300568,
+        "POS": 0.15484611690044403
+      }
+    },
+    "UgwbNXLRL2O4gpzJsOF4AaABAg.APMkIEfdg0dAPN5p5PwOCF": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.12483186274766922,
+        "NEU": 0.8203690052032471,
+        "POS": 0.05479907616972923
+      }
+    },
+    "UgytbHiNcSE5djMVe5J4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.07821230590343475,
+        "NEU": 0.7945064306259155,
+        "POS": 0.12728126347064972
+      }
+    },
+    "UgwFK1XOiQeX3Y5ZtqR4AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.114234060049057,
+        "NEU": 0.8525991439819336,
+        "POS": 0.03316672891378403
+      }
+    },
+    "UgzZGltxvxlQ2XGv_oV4AaABAg": {
+      "sentimiento": "POS",
+      "sentimiento_probas": {
+        "NEG": 0.0025312851648777723,
+        "NEU": 0.049931515008211136,
+        "POS": 0.9475371241569519
+      }
+    },
+    "UgzZGltxvxlQ2XGv_oV4AaABAg.APMjpvNGaBNAPMsLcDJw7G": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.19586558640003204,
+        "NEU": 0.7157946825027466,
+        "POS": 0.08833979815244675
+      }
+    },
+    "UgzZGltxvxlQ2XGv_oV4AaABAg.APMjpvNGaBNAPN28bPLqy4": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.14466820657253265,
+        "NEU": 0.692817747592926,
+        "POS": 0.1625141054391861
+      }
+    },
+    "UgyViYPFW9SOJWinf894AaABAg": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.2280506044626236,
+        "NEU": 0.7414731979370117,
+        "POS": 0.030476130545139313
+      }
+    },
+    "Ugxb7H3nSn0axcgoWhZ4AaABAg": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.6695417165756226,
+        "NEU": 0.3199366331100464,
+        "POS": 0.010521621443331242
+      }
+    },
+    "Ugxb7H3nSn0axcgoWhZ4AaABAg.APMi0Cm-5VUAPMizSA9rY-": {
+      "sentimiento": "NEG",
+      "sentimiento_probas": {
+        "NEG": 0.8957723379135132,
+        "NEU": 0.09987112134695053,
+        "POS": 0.004356482997536659
+      }
+    },
+    "Ugxb7H3nSn0axcgoWhZ4AaABAg.APMi0Cm-5VUAPMjL0KqiP-": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.06116456165909767,
+        "NEU": 0.902946412563324,
+        "POS": 0.035889025777578354
+      }
+    },
+    "Ugxb7H3nSn0axcgoWhZ4AaABAg.APMi0Cm-5VUAPMr0Nem-i8": {
+      "sentimiento": "NEU",
+      "sentimiento_probas": {
+        "NEG": 0.04120362550020218,
+        "NEU": 0.8891071081161499,
+        "POS": 0.06968924403190613
+      }
+    }
+  }
+}

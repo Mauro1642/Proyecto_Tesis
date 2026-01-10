@@ -1,0 +1,27 @@
+# Entornos virtuales (CRÍTICO)
+tesis_env/
+.venv/
+
+# Outputs generados
+salida_grafo_dinamico/
+*.gexf
+
+# Datos
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.pkl
+
+# Modelos entrenados
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+

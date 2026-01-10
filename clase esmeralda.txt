@@ -1,0 +1,84 @@
+a,b,c=[]
+1era iteracion:
+a=[]
+b=[4]
+c=[]
+2da iteracion: 
+a=[3]
+b=[4]
+c=[]
+3era iteracion:
+a=[3]
+b=[4]
+c=[5]
+return f(a)+b+f(c) -> [3]+[4]+[5]=[3,4,5]
+
+f(a)=f([3])=[3]
+f(c)=[5]
+
+f([2,1,2,4,3,5])
+a,b,c=[]
+1era iteracion:
+a=[]
+b=[2]
+c=[]
+2da iteracion:
+a=[1]
+b=[2]
+c=[]
+3era iteracion:
+a=[1]
+b=[2,2]
+c=[]
+4ta iteracion:
+a=[1]
+b=[2,2]
+c=[4]
+5ta iteracion:
+a=[1]
+b=[2,2]
+c=[3,3]
+6ta iteracion:
+a=[1]
+b=[2,2]
+c=[3,3,5]
+
+return f(a)+b+f(c) -> [1]+[2,2]+[3,3,5]
+f(a)=f([1])=[1]
+f(c)=f([3,3,5])
+a,b,c=[]
+1era iteracion:
+a=[]
+b=[3]
+c=[]
+2da iteracion:
+a=[]
+b=[3,3]
+c=[]
+3era iteracion:
+a=[]
+b=[3,3]
+c=[5]
+f(c)=f(a)+b+f(c)=[]+[3,3]+[5]=[3,3,5]
+
+
+4)
+def mayus(s:str)->srt:
+	if (s== ' '):
+		return s
+	else:
+		res:str=''
+		i:int=0
+		while i<len(s):
+			if(s[0]==x):
+				res=res+s
+
+
+
+cata1.productos=[]
+cata1.productos.append(ra)=[ra]
+cata1.productos[0]._rrepr__
+
+pastas:list[Producto]=cata1.productos
+print(pastas)->
+				
